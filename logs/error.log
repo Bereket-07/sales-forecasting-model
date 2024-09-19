@@ -1,0 +1,14 @@
+2024-09-19 10:54:40,677 - ERROR - error in ploting weekly sales: Only valid with DatetimeIndex, TimedeltaIndex or PeriodIndex, but got an instance of 'RangeIndex'
+2024-09-19 10:56:14,068 - ERROR - error in ploting weekly sales: Only valid with DatetimeIndex, TimedeltaIndex or PeriodIndex, but got an instance of 'RangeIndex'
+2024-09-19 11:07:16,389 - ERROR -  error while making date and index 'Date'
+2024-09-19 11:07:24,023 - ERROR -  error while making date and index 'Date'
+2024-09-19 11:07:34,478 - ERROR -  error while making date and index 'Date'
+2024-09-19 11:07:50,638 - ERROR -  error while making date and index 'Date'
+2024-09-19 17:55:55,543 - ERROR - error while performing statistical analysis For each axis slice, the sum of the observed frequencies must agree with the sum of the expected frequencies to a relative tolerance of 1.4901161193847656e-08, but the percent differences are:
+23.75683897975078
+2024-09-19 17:55:55,543 - ERROR - error while performing statistical analysis For each axis slice, the sum of the observed frequencies must agree with the sum of the expected frequencies to a relative tolerance of 1.4901161193847656e-08, but the percent differences are:
+23.75683897975078
+2024-09-19 17:58:47,576 - ERROR - error while performing statistical analysis For each axis slice, the sum of the observed frequencies must agree with the sum of the expected frequencies to a relative tolerance of 1.4901161193847656e-08, but the percent differences are:
+23.75683897975078
+2024-09-19 17:58:47,576 - ERROR - error while performing statistical analysis For each axis slice, the sum of the observed frequencies must agree with the sum of the expected frequencies to a relative tolerance of 1.4901161193847656e-08, but the percent differences are:
+23.75683897975078
