@@ -3022,3 +3022,117 @@
 2024-09-20 17:46:05,979 - INFO - plotting the monthly sales ...
 2024-09-20 17:46:05,979 - INFO - plotting the monthly sales ...
 2024-09-20 17:46:05,979 - INFO - plotting the monthly sales ...
+2024-09-20 17:49:10,607 - INFO - data loading started
+2024-09-20 17:49:10,607 - INFO - data loading started
+2024-09-20 17:49:10,607 - INFO - data loading started
+2024-09-20 17:49:11,875 - INFO - check for distribution and plot
+2024-09-20 17:49:11,875 - INFO - check for distribution and plot
+2024-09-20 17:49:11,875 - INFO - check for distribution and plot
+2024-09-20 17:49:11,901 - INFO - distribution calcualted sucessfully
+2024-09-20 17:49:11,901 - INFO - distribution calcualted sucessfully
+2024-09-20 17:49:11,901 - INFO - distribution calcualted sucessfully
+2024-09-20 17:49:11,977 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:11,977 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:11,977 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:11,996 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:11,996 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:11,996 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:12,067 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:12,067 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:12,067 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:12,082 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:12,082 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:12,082 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:12,411 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 17:49:12,411 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 17:49:12,411 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 17:49:12,504 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-20 17:49:12,504 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-20 17:49:12,504 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-20 17:49:13,442 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-20 17:49:13,442 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-20 17:49:13,442 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-20 17:49:14,591 - INFO - performing the correlation between the number of customers and sales
+2024-09-20 17:49:14,591 - INFO - performing the correlation between the number of customers and sales
+2024-09-20 17:49:14,591 - INFO - performing the correlation between the number of customers and sales
+2024-09-20 17:49:18,162 - INFO - The impact of promotion on the number of customers and sales
+2024-09-20 17:49:18,162 - INFO - The impact of promotion on the number of customers and sales
+2024-09-20 17:49:18,162 - INFO - The impact of promotion on the number of customers and sales
+2024-09-20 17:49:18,394 - INFO - Visualizing the impact of promotion on number of customers and sales
+2024-09-20 17:49:18,394 - INFO - Visualizing the impact of promotion on number of customers and sales
+2024-09-20 17:49:18,394 - INFO - Visualizing the impact of promotion on number of customers and sales
+2024-09-20 17:49:18,788 - INFO - Impact of promotion on existing customers
+2024-09-20 17:49:18,788 - INFO - Impact of promotion on existing customers
+2024-09-20 17:49:18,788 - INFO - Impact of promotion on existing customers
+2024-09-20 17:49:19,215 - INFO - Anlayzing the better promotion on specific stores
+2024-09-20 17:49:19,215 - INFO - Anlayzing the better promotion on specific stores
+2024-09-20 17:49:19,215 - INFO - Anlayzing the better promotion on specific stores
+2024-09-20 17:49:19,413 - INFO - calcuclating customer and sales uplift
+2024-09-20 17:49:19,413 - INFO - calcuclating customer and sales uplift
+2024-09-20 17:49:19,413 - INFO - calcuclating customer and sales uplift
+2024-09-20 17:49:19,429 - INFO - visualizing the uplif
+2024-09-20 17:49:19,429 - INFO - visualizing the uplif
+2024-09-20 17:49:19,429 - INFO - visualizing the uplif
+2024-09-20 17:49:23,150 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:23,150 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:23,150 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:23,165 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:23,165 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:23,165 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:34,086 - INFO - changing the date column to standaed date time format
+2024-09-20 17:49:34,086 - INFO - changing the date column to standaed date time format
+2024-09-20 17:49:34,086 - INFO - changing the date column to standaed date time format
+2024-09-20 17:49:34,210 - INFO - making the date column the index of the data frame
+2024-09-20 17:49:34,210 - INFO - making the date column the index of the data frame
+2024-09-20 17:49:34,210 - INFO - making the date column the index of the data frame
+2024-09-20 17:49:34,228 - INFO - Plotting weekly sales ...
+2024-09-20 17:49:34,228 - INFO - Plotting weekly sales ...
+2024-09-20 17:49:34,228 - INFO - Plotting weekly sales ...
+2024-09-20 17:49:34,707 - INFO - plotting the monthly sales ...
+2024-09-20 17:49:34,707 - INFO - plotting the monthly sales ...
+2024-09-20 17:49:34,707 - INFO - plotting the monthly sales ...
+2024-09-20 17:49:35,202 - INFO - Performing seasonal decompotation ....
+2024-09-20 17:49:35,202 - INFO - Performing seasonal decompotation ....
+2024-09-20 17:49:35,202 - INFO - Performing seasonal decompotation ....
+2024-09-20 17:49:36,505 - INFO - Plotting ACF and PACF ...
+2024-09-20 17:49:36,505 - INFO - Plotting ACF and PACF ...
+2024-09-20 17:49:36,505 - INFO - Plotting ACF and PACF ...
+2024-09-20 17:49:36,704 - ERROR - Error in ploting ACF and PACF: Axes.stem() got an unexpected keyword argument 'use_line_collection'
+2024-09-20 17:49:36,704 - ERROR - Error in ploting ACF and PACF: Axes.stem() got an unexpected keyword argument 'use_line_collection'
+2024-09-20 17:49:36,704 - ERROR - Error in ploting ACF and PACF: Axes.stem() got an unexpected keyword argument 'use_line_collection'
+2024-09-20 17:49:36,888 - INFO - Plotting rolling statistics ..
+2024-09-20 17:49:36,888 - INFO - Plotting rolling statistics ..
+2024-09-20 17:49:36,888 - INFO - Plotting rolling statistics ..
+2024-09-20 17:49:37,251 - INFO - PLotting average sales by day of week ..
+2024-09-20 17:49:37,251 - INFO - PLotting average sales by day of week ..
+2024-09-20 17:49:37,251 - INFO - PLotting average sales by day of week ..
+2024-09-20 17:49:37,471 - INFO - Plotting sales distribution: StateHoliday vs Non Holiday ....
+2024-09-20 17:49:37,471 - INFO - Plotting sales distribution: StateHoliday vs Non Holiday ....
+2024-09-20 17:49:37,471 - INFO - Plotting sales distribution: StateHoliday vs Non Holiday ....
+2024-09-20 17:49:39,349 - INFO - Plotting sales distribution: SchoolHoliday vs Non Holiday ....
+2024-09-20 17:49:39,349 - INFO - Plotting sales distribution: SchoolHoliday vs Non Holiday ....
+2024-09-20 17:49:39,349 - INFO - Plotting sales distribution: SchoolHoliday vs Non Holiday ....
+2024-09-20 17:49:40,194 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:40,194 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:40,194 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:40,913 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:40,913 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:40,913 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 17:49:41,424 - INFO - Plotting store type performance over time...
+2024-09-20 17:49:41,424 - INFO - Plotting store type performance over time...
+2024-09-20 17:49:41,424 - INFO - Plotting store type performance over time...
+2024-09-20 17:49:41,504 - ERROR - Error in plotting store type performance: 'Store_Type'
+2024-09-20 17:49:41,504 - ERROR - Error in plotting store type performance: 'Store_Type'
+2024-09-20 17:49:41,504 - ERROR - Error in plotting store type performance: 'Store_Type'
+2024-09-20 17:49:41,530 - INFO - Plotting correlation between sales and customers...
+2024-09-20 17:49:41,530 - INFO - Plotting correlation between sales and customers...
+2024-09-20 17:49:41,530 - INFO - Plotting correlation between sales and customers...
+2024-09-20 17:49:41,768 - INFO - Plotting cumulative sales over time...
+2024-09-20 17:49:41,768 - INFO - Plotting cumulative sales over time...
+2024-09-20 17:49:41,768 - INFO - Plotting cumulative sales over time...
+2024-09-20 17:49:42,280 - INFO - Plotting daily sales growth rate...
+2024-09-20 17:49:42,280 - INFO - Plotting daily sales growth rate...
+2024-09-20 17:49:42,280 - INFO - Plotting daily sales growth rate...
+2024-09-20 18:40:03,032 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 18:40:03,032 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 18:40:03,032 - INFO - working on Statistical Test - Chi-Squared Test
