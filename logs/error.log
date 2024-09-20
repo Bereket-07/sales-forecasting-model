@@ -15,3 +15,22 @@
 2024-09-19 20:38:30,300 - ERROR - error while creating the holidayperiod column : 'DataFrame' object has no attribute 'groupbt'
 2024-09-19 20:38:30,300 - ERROR - error while creating the holidayperiod column : 'DataFrame' object has no attribute 'groupbt'
 2024-09-19 20:38:30,300 - ERROR - error while creating the holidayperiod column : 'DataFrame' object has no attribute 'groupbt'
+2024-09-20 11:01:14,333 - ERROR - Error while calculating uplift : 'Store'
+2024-09-20 11:01:14,333 - ERROR - Error while calculating uplift : 'Store'
+2024-09-20 11:01:14,333 - ERROR - Error while calculating uplift : 'Store'
+2024-09-20 11:03:41,243 - ERROR - Error while calculating uplift : 'Store'
+2024-09-20 11:03:41,243 - ERROR - Error while calculating uplift : 'Store'
+2024-09-20 11:03:41,243 - ERROR - Error while calculating uplift : 'Store'
+2024-09-20 11:05:48,557 - ERROR - Error while calculating uplift : 'Store'
+2024-09-20 11:05:48,557 - ERROR - Error while calculating uplift : 'Store'
+2024-09-20 11:05:48,557 - ERROR - Error while calculating uplift : 'Store'
+2024-09-20 12:26:56,046 - ERROR -  Error while showing influence of opening all weekdays : bad operand type for unary ~: 'list'
+2024-09-20 12:26:56,046 - ERROR -  Error while showing influence of opening all weekdays : bad operand type for unary ~: 'list'
+2024-09-20 12:26:56,046 - ERROR -  Error while showing influence of opening all weekdays : bad operand type for unary ~: 'list'
+2024-09-20 14:29:06,652 - ERROR -  Error while showing influence of opening all weekdays : 'Store'
+2024-09-20 14:30:15,240 - ERROR - error while performing ab hypotesesi test
+2024-09-20 14:30:19,406 - ERROR -  Error while showing influence of opening all weekdays : 'Store'
+2024-09-20 14:33:22,069 - ERROR -  Error while showing influence of opening all weekdays : name 'df' is not defined
+2024-09-20 14:33:22,069 - ERROR -  Error while showing influence of opening all weekdays : name 'df' is not defined
+2024-09-20 14:33:22,069 - ERROR -  Error while showing influence of opening all weekdays : name 'df' is not defined
+2024-09-20 15:47:01,802 - ERROR - Error while analyzing assortment impact on sales: 'function' object is not subscriptable

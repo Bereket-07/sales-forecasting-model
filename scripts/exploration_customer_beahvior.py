@@ -23,9 +23,12 @@ def load_data(path , name):
         logger.error(f"Error loading the data {e}")
 
 def indivdual_histogram(data , name_of_the_data_set):
+    if name_of_the_data_set == 'train':
+        data['StateHoliday'] = data['StateHoliday'].astype(str)
+        data['SchoolHoliday'] = data['SchoolHoliday'].astype(str)
     # Individual Histograms
     num_columns = len(data.columns)
-    num_rows = (num_columns + 2) // 3  # Number of rows needed if 3 columns per row
+    num_rows = (num_columns + 2) // 2  # Number of rows needed if 3 columns per row
     plt.figure(figsize=(15, num_rows * 5))
 
     for i, column in enumerate(data.columns):

@@ -5,6 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns 
 from scipy.stats import f_oneway
+from scipy.stats import chisquare
 
 logging.basicConfig(
     level=logging.DEBUG,  # Set the logging level (DEBUG, INFO, WARNING, ERROR, CRITICAL)
@@ -196,10 +197,179 @@ def promo_impact_on_existing_customers(train):
         plt.ylabel('Number of sales')
     except Exception as e:
         logger.error(f"Error while performing impact of promo on existing customers: {e}")
+def impact_of_promotion_by_store(train):
+    logger.info("Anlayzing the better promotion on specific stores")
+    try:
+        grouped = train.groupby(['Store' , 'Promo']).agg({
+            'Customers':'mean',
+            'Sales':'mean'
+        }).reset_index()
+        return grouped
+    except Exception as e:
+        logger.error(f"error while aggregating: {e}")
+def calculat_customer_and_sales_uplift(grouped):
+    logger.info("calcuclating customer and sales uplift")
+    try:
+        # Create a pivot table to compare promo vs. non-promo days
+        pivot_table = grouped.pivot(index='Store', columns='Promo', values=['Customers', 'Sales'])
+
+        # Calculate the uplift in customers and sales 
+        pivot_table['Customer_Uplift'] = pivot_table['Customers'][1] - pivot_table['Customers'][0]
+        pivot_table['Sales_Uplift'] = pivot_table['Sales'][1] - pivot_table['Sales'][0]
+
+        visualize_uplift(pivot_table)
+        
+        return pivot_table
+    except Exception as e:
+        logger.error(f"Error while calculating uplift : {e}")
+def visualize_uplift(pivot_table):
+    logger.info("visualizing the uplif")
+    try:
+        # Plot customer uplift by store
+        plt.bar(pivot_table.index, pivot_table['Customer_Uplift'], color='blue')
+        plt.title('Customer Uplift by Store during Promotions')
+        plt.xlabel('Store ID')
+        plt.ylabel('Customer Uplift')
+        plt.show()
+
+        # Plot sales uplift by store
+        plt.bar(pivot_table.index, pivot_table['Sales_Uplift'], color='green')
+        plt.title('Sales Uplift by Store during Promotions')
+        plt.xlabel('Store ID')
+        plt.ylabel('Sales Uplift ($)')
+        plt.show()
+    except Exception as e:
+        logger.error(f"Error while trying to visualize uplif: {e}")
+def impact_of_opening_all_week_days(train):
+    logger.info("Showing the influence of opening all week days on weekends")
+    try:
+        # Step 1: Identify stores open on all weekdays
+        weekday_stores = train[(train['DayOfWeek'] < 6) & (train['Open'] == 1)]
+        stores_open_weekdays = weekday_stores['Store'].unique()
+
+        # Step 2: Count unique open weekdays for each store
+        store_weekday_count = train[train['DayOfWeek'] < 6].groupby('Store')['Open'].sum().reset_index()
+        store_weekday_count = store_weekday_count.rename(columns={'Open': 'OpenDays'})
+
+        # Step 3: Identify stores that are not open all weekdays
+        stores_not_open_weekdays = store_weekday_count[store_weekday_count['OpenDays'] < 6]['Store'].unique()
+
+        # Step 3: Calculate weekend sales for both groups
+        weekend_sales_open = train[(train['Store'].isin(stores_open_weekdays)) & (train['DayOfWeek'] >= 6)]
+        weekend_sales_summary_open = weekend_sales_open.groupby('Store')['Sales'].sum().reset_index()
+
+        weekend_sales_not_open = train[(train['Store'].isin(stores_not_open_weekdays)) & (train['DayOfWeek'] >= 6)]
+        weekend_sales_summary_not_open = weekend_sales_not_open.groupby('Store')['Sales'].sum().reset_index()
+
+        # Handle empty dataframe case
+        if weekend_sales_summary_not_open.empty:
+            logger.info("No stores found that close during any weekdays.")
+            print("All stores are open on all weekdays. No comparison data for stores closed on weekdays.")
+            combined_sales = weekend_sales_summary_open.assign(Group='Open All Weekdays')
+        else:
+            combined_sales = pd.concat([
+                weekend_sales_summary_open.assign(Group='Open All Weekdays'),
+                weekend_sales_summary_not_open.assign(Group='Not Open All Weekdays')
+            ])
+
+        # Print summaries
+        print("  open all weekdays weekend sales \n")
+        print(weekend_sales_open)
+        print(f"  open all weekdays weekend sales SUMMARY \n ") 
+        print(weekend_sales_summary_open)
+
+        print(f" not open all weekdays weekend sales \n ")
+        print(weekend_sales_not_open)
+        print(f" not open all weekdays weekend sales SUMMARY \n")
+        print(weekend_sales_summary_not_open)
+
+        # Step 4: Visualization with grouped bar chart
+        plt.figure(figsize=(10, 6))
+        bar_width = 0.35
+        index = range(len(combined_sales))
+
+        # Plot bars for each group
+        for i, group in enumerate(combined_sales['Group'].unique()):
+            subset = combined_sales[combined_sales['Group'] == group]
+            plt.bar([x + i * bar_width for x in index[:len(subset)]], subset['Sales'], width=bar_width, label=group)
+
+        # Formatting the plot
+        plt.title('Weekend Sales Comparison: Stores Open vs Not Open on All Weekdays')
+        plt.xlabel('Store')
+        plt.ylabel('Total Weekend Sales ($)')
+        plt.xticks(index, combined_sales['Store'].unique(), rotation=0)
+        plt.legend()
+        plt.grid(axis='y')
+        plt.tight_layout()
+        plt.show()
+    except Exception as e:
+        logger.error(f" Error while showing influence of opening all weekdays : {e}")
+def open_all_week_days(train):
+    # Step 1: Filter for weekdays and only include stores that are open
+    weekday_stores = train[(train['DayOfWeek'] < 6) & (train['Open'] == 1)]
+
+    # Step 2: Count unique weekdays for each store
+    weekday_count = weekday_stores.groupby('Store')['DayOfWeek'].unique().reset_index()
+    
+    return weekday_count
+    # Step 3: Identify stores open on all weekdays (which is 5 unique weekdays)
+    stores_open_all_weekdays = weekday_count[weekday_count['DayOfWeek'] == 5]['Store'].unique()
+
+    # Display results
+    print("Stores open on all weekdays:")
+    print(stores_open_all_weekdays)
+def analyze_weekday_closures_and_weekend_sales(train):
+    try:
+        df = train.copy()
+        # Step 1: Create week identifiers (Year and Week)
+        df['Date'] = pd.to_datetime(df['Date'])
+        df['Year'] = df['Date'].dt.isocalendar().year
+        df['Week'] = df['Date'].dt.isocalendar().week
+        
+        # Step 2: Count open days during weekdays (Monday to Friday: DayOfWeek < 6)
+        weekday_open_counts = df[(df['DayOfWeek'] < 6) & (df['Open'] == 1)] \
+                              .groupby(['Store', 'Year', 'Week'])['Open'] \
+                              .sum().reset_index()
+        weekday_open_counts = weekday_open_counts.rename(columns={'Open': 'OpenWeekdays'})
+
+        # Step 3: Identify stores that close at least one weekday (OpenWeekdays < 5)
+        stores_close_at_least_one_weekday = weekday_open_counts[weekday_open_counts['OpenWeekdays'] < 5]['Store'].unique()
+
+        # Step 4: Identify stores that are always open on all weekdays (OpenWeekdays == 5)
+        stores_open_all_weekdays = weekday_open_counts[weekday_open_counts['OpenWeekdays'] == 5]['Store'].unique()
+
+        # Step 5: Calculate weekend sales for both groups (Saturday and Sunday: DayOfWeek >= 6)
+        weekend_sales_open = df[(df['Store'].isin(stores_open_all_weekdays)) & (df['DayOfWeek'] >= 6)]
+        weekend_sales_summary_open = weekend_sales_open.groupby('Store')['Sales'].sum().reset_index()
+
+        weekend_sales_closed = df[(df['Store'].isin(stores_close_at_least_one_weekday)) & (df['DayOfWeek'] >= 6)]
+        weekend_sales_summary_closed = weekend_sales_closed.groupby('Store')['Sales'].sum().reset_index()
+
+        print(weekend_sales_summary_closed)
+
+        # Step 6: Combine results for visualization
+        combined_sales = pd.concat([
+            weekend_sales_summary_open.assign(Group='Open All Weekdays'),
+            weekend_sales_summary_closed.assign(Group='Closed at least 1 Weekday')
+        ])
+
+        # Step 7: Visualization
+        plt.figure(figsize=(12, 8))
+        sns.barplot(data=combined_sales, x='Store', y='Sales', hue='Group', palette='muted')
+
+        # Formatting the plot
+        plt.title('Weekend Sales Comparison: Stores Open All Weekdays vs Closed at Least 1 Weekday')
+        plt.xlabel('Store')
+        plt.ylabel('Total Weekend Sales ($)')
+        plt.xticks(rotation=90)
+        plt.legend()
+        plt.grid(axis='y')
+        plt.tight_layout()
+        plt.show()
 
 
-
-
+    except Exception as e:
+        print(f"Error occurred: {e}")
 
 
 

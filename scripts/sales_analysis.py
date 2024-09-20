@@ -206,4 +206,61 @@ def print_statistics(data):
         logger.info(f"error while priniting statistics: {e}")
 def plot_promo_effect(data):
     logger.info("Plotting promo effect over time .....")
-    
+    try:
+        monthly_promo_sales = df.groupby([df.index.to_period('M'), 'Promo'])['Sales'].mean().unstack()
+        monthly_promo_sales.columns = ['No Promo', 'Promo']
+
+        monthly_promo_sales[['No Promo', 'Promo']].plot(figsize=(15, 7))
+        plt.title('Monthly Average Sales: Promo vs No Promo')
+        plt.xlabel('Date')
+        plt.ylabel('Average Sales')
+        plt.legend(['No Promo', 'Promo'])
+        plt.show()
+    except Exception as e:
+        logger.error(f"Error in plotting promo effect: {e}")
+def plot_store_type_performance(df):
+    logger.info("Plotting store type performance over time...")
+    try:
+        store_type_sales = df.groupby([df.index.to_period('M'), 'Store_Type'])['Sales'].mean().unstack()
+        store_type_sales.plot(figsize=(15, 7))
+        plt.title('Monthly Average Sales by Store Type')
+        plt.xlabel('Date')
+        plt.ylabel('Average Sales')
+        plt.legend(title='Store Type')
+        plt.show()
+    except Exception as e:
+        logger.error(f"Error in plotting store type performance: {e}")
+
+def plot_sales_correlation(df):
+    logger.info("Plotting correlation between sales and customers...")
+    try:
+        correlation = df[['Sales', 'Customers']].corr()
+        sns.heatmap(correlation, annot=True, cmap='coolwarm', vmin=-1, vmax=1)
+        plt.title('Correlation between Sales and Customers')
+        plt.show()
+    except Exception as e:
+        logger.error(f"Error in plotting sales correlation: {e}")
+def plot_cumulative_sales(df):
+    logger.info("Plotting cumulative sales over time...")
+    try:
+        df['CumulativeSales'] = df['Sales'].cumsum()
+        plt.figure(figsize=(15, 7))
+        plt.plot(df.index, df['CumulativeSales'])
+        plt.title('Cumulative Sales Over Time')
+        plt.xlabel('Date')
+        plt.ylabel('Cumulative Sales')
+        plt.show()
+    except Exception as e:
+        logger.error(f"Error in plotting cumulative sales: {e}")
+def plot_sales_growth_rate(df):
+    logger.info("Plotting daily sales growth rate...")
+    try:
+        df['SalesGrowthRate'] = df['Sales'].pct_change()
+        plt.figure(figsize=(15, 7))
+        plt.plot(df.index, df['SalesGrowthRate'])
+        plt.title('Daily Sales Growth Rate')
+        plt.xlabel('Date')
+        plt.ylabel('Growth Rate')
+        plt.show()
+    except Exception as e:
+        logger.error(f"Error in plotting sales growth rate: {e}")
