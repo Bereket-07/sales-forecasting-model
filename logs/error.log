@@ -12,3 +12,6 @@
 23.75683897975078
 2024-09-19 17:58:47,576 - ERROR - error while performing statistical analysis For each axis slice, the sum of the observed frequencies must agree with the sum of the expected frequencies to a relative tolerance of 1.4901161193847656e-08, but the percent differences are:
 23.75683897975078
+2024-09-19 20:38:30,300 - ERROR - error while creating the holidayperiod column : 'DataFrame' object has no attribute 'groupbt'
+2024-09-19 20:38:30,300 - ERROR - error while creating the holidayperiod column : 'DataFrame' object has no attribute 'groupbt'
+2024-09-19 20:38:30,300 - ERROR - error while creating the holidayperiod column : 'DataFrame' object has no attribute 'groupbt'

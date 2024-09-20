@@ -110,3 +110,852 @@
 2024-09-19 18:02:26,673 - INFO - making the date column the index of the data frame
 2024-09-19 18:02:26,707 - INFO - Plotting weekly sales ...
 2024-09-19 18:02:26,707 - INFO - Plotting weekly sales ...
+2024-09-19 18:49:12,417 - INFO - data loading started
+2024-09-19 18:49:12,417 - INFO - data loading started
+2024-09-19 18:49:12,417 - INFO - data loading started
+2024-09-19 18:49:13,097 - INFO - check for distribution and plot
+2024-09-19 18:49:13,097 - INFO - check for distribution and plot
+2024-09-19 18:49:13,097 - INFO - check for distribution and plot
+2024-09-19 18:49:13,114 - INFO - distribution calcualted sucessfully
+2024-09-19 18:49:13,114 - INFO - distribution calcualted sucessfully
+2024-09-19 18:49:13,114 - INFO - distribution calcualted sucessfully
+2024-09-19 18:49:13,169 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,169 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,169 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,178 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,178 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,178 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,213 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,213 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,213 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,227 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,227 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,227 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 18:49:13,488 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 18:49:13,488 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 18:49:13,488 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 18:49:13,512 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 18:49:13,512 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 18:49:13,512 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 18:49:13,715 - INFO - changing the date column to standaed date time format
+2024-09-19 18:49:13,715 - INFO - changing the date column to standaed date time format
+2024-09-19 18:49:13,715 - INFO - changing the date column to standaed date time format
+2024-09-19 18:49:13,834 - INFO - making the date column the index of the data frame
+2024-09-19 18:49:13,834 - INFO - making the date column the index of the data frame
+2024-09-19 18:49:13,834 - INFO - making the date column the index of the data frame
+2024-09-19 18:49:13,850 - INFO - Plotting weekly sales ...
+2024-09-19 18:49:13,850 - INFO - Plotting weekly sales ...
+2024-09-19 18:49:13,850 - INFO - Plotting weekly sales ...
+2024-09-19 19:01:47,195 - INFO - data loading started
+2024-09-19 19:01:47,195 - INFO - data loading started
+2024-09-19 19:01:47,195 - INFO - data loading started
+2024-09-19 19:01:48,194 - INFO - check for distribution and plot
+2024-09-19 19:01:48,194 - INFO - check for distribution and plot
+2024-09-19 19:01:48,194 - INFO - check for distribution and plot
+2024-09-19 19:01:48,211 - INFO - distribution calcualted sucessfully
+2024-09-19 19:01:48,211 - INFO - distribution calcualted sucessfully
+2024-09-19 19:01:48,211 - INFO - distribution calcualted sucessfully
+2024-09-19 19:01:48,253 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,253 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,253 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,258 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,258 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,258 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,291 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,291 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,291 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,305 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,305 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,305 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:01:48,520 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:01:48,520 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:01:48,520 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:01:48,619 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:01:48,619 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:01:48,619 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:01:48,793 - INFO - changing the date column to standaed date time format
+2024-09-19 19:01:48,793 - INFO - changing the date column to standaed date time format
+2024-09-19 19:01:48,793 - INFO - changing the date column to standaed date time format
+2024-09-19 19:01:48,956 - INFO - making the date column the index of the data frame
+2024-09-19 19:01:48,956 - INFO - making the date column the index of the data frame
+2024-09-19 19:01:48,956 - INFO - making the date column the index of the data frame
+2024-09-19 19:01:48,990 - INFO - Plotting weekly sales ...
+2024-09-19 19:01:48,990 - INFO - Plotting weekly sales ...
+2024-09-19 19:01:48,990 - INFO - Plotting weekly sales ...
+2024-09-19 19:02:00,160 - INFO - data loading started
+2024-09-19 19:02:00,160 - INFO - data loading started
+2024-09-19 19:02:00,160 - INFO - data loading started
+2024-09-19 19:02:01,178 - INFO - check for distribution and plot
+2024-09-19 19:02:01,178 - INFO - check for distribution and plot
+2024-09-19 19:02:01,178 - INFO - check for distribution and plot
+2024-09-19 19:02:01,189 - INFO - distribution calcualted sucessfully
+2024-09-19 19:02:01,189 - INFO - distribution calcualted sucessfully
+2024-09-19 19:02:01,189 - INFO - distribution calcualted sucessfully
+2024-09-19 19:02:01,219 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,219 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,219 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,224 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,224 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,224 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,266 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,266 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,266 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,270 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,270 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,270 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:02:01,455 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:02:01,455 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:02:01,455 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:02:01,570 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:02:01,570 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:02:01,570 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:02:01,734 - INFO - changing the date column to standaed date time format
+2024-09-19 19:02:01,734 - INFO - changing the date column to standaed date time format
+2024-09-19 19:02:01,734 - INFO - changing the date column to standaed date time format
+2024-09-19 19:02:01,836 - INFO - making the date column the index of the data frame
+2024-09-19 19:02:01,836 - INFO - making the date column the index of the data frame
+2024-09-19 19:02:01,836 - INFO - making the date column the index of the data frame
+2024-09-19 19:02:01,870 - INFO - Plotting weekly sales ...
+2024-09-19 19:02:01,870 - INFO - Plotting weekly sales ...
+2024-09-19 19:02:01,870 - INFO - Plotting weekly sales ...
+2024-09-19 19:03:22,204 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:03:22,204 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:03:22,204 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:03:38,472 - INFO - data loading started
+2024-09-19 19:03:38,472 - INFO - data loading started
+2024-09-19 19:03:38,472 - INFO - data loading started
+2024-09-19 19:03:39,419 - INFO - check for distribution and plot
+2024-09-19 19:03:39,419 - INFO - check for distribution and plot
+2024-09-19 19:03:39,419 - INFO - check for distribution and plot
+2024-09-19 19:03:39,434 - INFO - distribution calcualted sucessfully
+2024-09-19 19:03:39,434 - INFO - distribution calcualted sucessfully
+2024-09-19 19:03:39,434 - INFO - distribution calcualted sucessfully
+2024-09-19 19:03:39,485 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,485 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,485 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,496 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,496 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,496 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,548 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,548 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,548 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,548 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,548 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,548 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:03:39,799 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:03:39,799 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:03:39,799 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:03:39,941 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:03:39,941 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:03:39,941 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:03:40,166 - INFO - changing the date column to standaed date time format
+2024-09-19 19:03:40,166 - INFO - changing the date column to standaed date time format
+2024-09-19 19:03:40,166 - INFO - changing the date column to standaed date time format
+2024-09-19 19:03:40,323 - INFO - making the date column the index of the data frame
+2024-09-19 19:03:40,323 - INFO - making the date column the index of the data frame
+2024-09-19 19:03:40,323 - INFO - making the date column the index of the data frame
+2024-09-19 19:03:40,347 - INFO - Plotting weekly sales ...
+2024-09-19 19:03:40,347 - INFO - Plotting weekly sales ...
+2024-09-19 19:03:40,347 - INFO - Plotting weekly sales ...
+2024-09-19 19:05:50,886 - INFO - data loading started
+2024-09-19 19:05:50,886 - INFO - data loading started
+2024-09-19 19:05:50,886 - INFO - data loading started
+2024-09-19 19:05:51,818 - INFO - check for distribution and plot
+2024-09-19 19:05:51,818 - INFO - check for distribution and plot
+2024-09-19 19:05:51,818 - INFO - check for distribution and plot
+2024-09-19 19:05:51,833 - INFO - distribution calcualted sucessfully
+2024-09-19 19:05:51,833 - INFO - distribution calcualted sucessfully
+2024-09-19 19:05:51,833 - INFO - distribution calcualted sucessfully
+2024-09-19 19:05:51,891 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,891 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,891 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,903 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,903 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,903 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,952 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,952 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,952 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,960 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,960 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:51,960 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:05:52,248 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:05:52,248 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:05:52,248 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:05:52,316 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:05:52,316 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:05:52,316 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:05:52,528 - INFO - changing the date column to standaed date time format
+2024-09-19 19:05:52,528 - INFO - changing the date column to standaed date time format
+2024-09-19 19:05:52,528 - INFO - changing the date column to standaed date time format
+2024-09-19 19:05:52,663 - INFO - making the date column the index of the data frame
+2024-09-19 19:05:52,663 - INFO - making the date column the index of the data frame
+2024-09-19 19:05:52,663 - INFO - making the date column the index of the data frame
+2024-09-19 19:05:52,697 - INFO - Plotting weekly sales ...
+2024-09-19 19:05:52,697 - INFO - Plotting weekly sales ...
+2024-09-19 19:05:52,697 - INFO - Plotting weekly sales ...
+2024-09-19 19:07:59,050 - INFO - data loading started
+2024-09-19 19:07:59,050 - INFO - data loading started
+2024-09-19 19:07:59,050 - INFO - data loading started
+2024-09-19 19:08:00,240 - INFO - check for distribution and plot
+2024-09-19 19:08:00,240 - INFO - check for distribution and plot
+2024-09-19 19:08:00,240 - INFO - check for distribution and plot
+2024-09-19 19:08:00,259 - INFO - distribution calcualted sucessfully
+2024-09-19 19:08:00,259 - INFO - distribution calcualted sucessfully
+2024-09-19 19:08:00,259 - INFO - distribution calcualted sucessfully
+2024-09-19 19:08:00,324 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,324 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,324 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,341 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,341 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,341 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,412 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,412 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,412 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,422 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,422 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,422 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:08:00,870 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:08:00,870 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:08:00,870 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:08:00,963 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:08:00,963 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:08:00,963 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:08:01,403 - INFO - changing the date column to standaed date time format
+2024-09-19 19:08:01,403 - INFO - changing the date column to standaed date time format
+2024-09-19 19:08:01,403 - INFO - changing the date column to standaed date time format
+2024-09-19 19:08:01,581 - INFO - making the date column the index of the data frame
+2024-09-19 19:08:01,581 - INFO - making the date column the index of the data frame
+2024-09-19 19:08:01,581 - INFO - making the date column the index of the data frame
+2024-09-19 19:08:01,604 - INFO - Plotting weekly sales ...
+2024-09-19 19:08:01,604 - INFO - Plotting weekly sales ...
+2024-09-19 19:08:01,604 - INFO - Plotting weekly sales ...
+2024-09-19 19:31:07,065 - INFO - data loading started
+2024-09-19 19:31:07,065 - INFO - data loading started
+2024-09-19 19:31:07,065 - INFO - data loading started
+2024-09-19 19:31:07,872 - INFO - check for distribution and plot
+2024-09-19 19:31:07,872 - INFO - check for distribution and plot
+2024-09-19 19:31:07,872 - INFO - check for distribution and plot
+2024-09-19 19:31:07,892 - INFO - distribution calcualted sucessfully
+2024-09-19 19:31:07,892 - INFO - distribution calcualted sucessfully
+2024-09-19 19:31:07,892 - INFO - distribution calcualted sucessfully
+2024-09-19 19:31:07,943 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:07,943 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:07,943 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:07,957 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:07,957 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:07,957 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:07,996 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:07,996 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:07,996 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:08,006 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:08,006 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:08,006 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:31:08,226 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:31:08,226 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:31:08,226 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:31:08,306 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:31:08,306 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:31:08,306 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:34:39,044 - INFO - data loading started
+2024-09-19 19:34:39,044 - INFO - data loading started
+2024-09-19 19:34:39,044 - INFO - data loading started
+2024-09-19 19:34:39,834 - INFO - check for distribution and plot
+2024-09-19 19:34:39,834 - INFO - check for distribution and plot
+2024-09-19 19:34:39,834 - INFO - check for distribution and plot
+2024-09-19 19:34:39,878 - INFO - distribution calcualted sucessfully
+2024-09-19 19:34:39,878 - INFO - distribution calcualted sucessfully
+2024-09-19 19:34:39,878 - INFO - distribution calcualted sucessfully
+2024-09-19 19:34:39,958 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:39,958 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:39,958 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:39,958 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:39,958 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:39,958 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:40,004 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:40,004 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:40,004 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:40,004 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:40,004 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:40,004 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:34:40,356 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:34:40,356 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:34:40,356 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:34:40,447 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:34:40,447 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:34:40,447 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:34:40,731 - INFO - changing the date column to standaed date time format
+2024-09-19 19:34:40,731 - INFO - changing the date column to standaed date time format
+2024-09-19 19:34:40,731 - INFO - changing the date column to standaed date time format
+2024-09-19 19:34:40,867 - INFO - making the date column the index of the data frame
+2024-09-19 19:34:40,867 - INFO - making the date column the index of the data frame
+2024-09-19 19:34:40,867 - INFO - making the date column the index of the data frame
+2024-09-19 19:34:40,893 - INFO - Plotting weekly sales ...
+2024-09-19 19:34:40,893 - INFO - Plotting weekly sales ...
+2024-09-19 19:34:40,893 - INFO - Plotting weekly sales ...
+2024-09-19 19:59:40,045 - INFO - data loading started
+2024-09-19 19:59:40,045 - INFO - data loading started
+2024-09-19 19:59:40,045 - INFO - data loading started
+2024-09-19 19:59:41,010 - INFO - check for distribution and plot
+2024-09-19 19:59:41,010 - INFO - check for distribution and plot
+2024-09-19 19:59:41,010 - INFO - check for distribution and plot
+2024-09-19 19:59:41,019 - INFO - distribution calcualted sucessfully
+2024-09-19 19:59:41,019 - INFO - distribution calcualted sucessfully
+2024-09-19 19:59:41,019 - INFO - distribution calcualted sucessfully
+2024-09-19 19:59:41,067 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,067 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,067 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,078 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,078 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,078 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,118 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,118 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,118 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,131 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,131 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,131 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 19:59:41,476 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:59:41,476 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:59:41,476 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 19:59:41,612 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:59:41,612 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:59:41,612 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 19:59:42,405 - INFO - changing the date column to standaed date time format
+2024-09-19 19:59:42,405 - INFO - changing the date column to standaed date time format
+2024-09-19 19:59:42,405 - INFO - changing the date column to standaed date time format
+2024-09-19 19:59:42,590 - INFO - making the date column the index of the data frame
+2024-09-19 19:59:42,590 - INFO - making the date column the index of the data frame
+2024-09-19 19:59:42,590 - INFO - making the date column the index of the data frame
+2024-09-19 19:59:42,621 - INFO - Plotting weekly sales ...
+2024-09-19 19:59:42,621 - INFO - Plotting weekly sales ...
+2024-09-19 19:59:42,621 - INFO - Plotting weekly sales ...
+2024-09-19 20:00:10,969 - INFO - data loading started
+2024-09-19 20:00:10,969 - INFO - data loading started
+2024-09-19 20:00:10,969 - INFO - data loading started
+2024-09-19 20:00:12,533 - INFO - check for distribution and plot
+2024-09-19 20:00:12,533 - INFO - check for distribution and plot
+2024-09-19 20:00:12,533 - INFO - check for distribution and plot
+2024-09-19 20:00:12,554 - INFO - distribution calcualted sucessfully
+2024-09-19 20:00:12,554 - INFO - distribution calcualted sucessfully
+2024-09-19 20:00:12,554 - INFO - distribution calcualted sucessfully
+2024-09-19 20:00:12,597 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,597 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,597 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,616 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,616 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,616 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,665 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,665 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,665 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,680 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,680 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,680 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:00:12,951 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:00:12,951 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:00:12,951 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:00:13,035 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:00:13,035 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:00:13,035 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:00:13,599 - INFO - changing the date column to standaed date time format
+2024-09-19 20:00:13,599 - INFO - changing the date column to standaed date time format
+2024-09-19 20:00:13,599 - INFO - changing the date column to standaed date time format
+2024-09-19 20:00:13,774 - INFO - making the date column the index of the data frame
+2024-09-19 20:00:13,774 - INFO - making the date column the index of the data frame
+2024-09-19 20:00:13,774 - INFO - making the date column the index of the data frame
+2024-09-19 20:00:13,817 - INFO - Plotting weekly sales ...
+2024-09-19 20:00:13,817 - INFO - Plotting weekly sales ...
+2024-09-19 20:00:13,817 - INFO - Plotting weekly sales ...
+2024-09-19 20:03:16,928 - INFO - data loading started
+2024-09-19 20:03:16,928 - INFO - data loading started
+2024-09-19 20:03:16,928 - INFO - data loading started
+2024-09-19 20:03:17,760 - INFO - check for distribution and plot
+2024-09-19 20:03:17,760 - INFO - check for distribution and plot
+2024-09-19 20:03:17,760 - INFO - check for distribution and plot
+2024-09-19 20:03:17,774 - INFO - distribution calcualted sucessfully
+2024-09-19 20:03:17,774 - INFO - distribution calcualted sucessfully
+2024-09-19 20:03:17,774 - INFO - distribution calcualted sucessfully
+2024-09-19 20:03:17,804 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,804 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,804 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,816 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,816 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,816 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,850 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,850 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,850 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,856 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,856 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:17,856 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:18,080 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:03:18,080 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:03:18,080 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:03:18,171 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:03:18,171 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:03:18,171 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:03:45,037 - INFO - data loading started
+2024-09-19 20:03:45,037 - INFO - data loading started
+2024-09-19 20:03:45,037 - INFO - data loading started
+2024-09-19 20:03:46,010 - INFO - check for distribution and plot
+2024-09-19 20:03:46,010 - INFO - check for distribution and plot
+2024-09-19 20:03:46,010 - INFO - check for distribution and plot
+2024-09-19 20:03:46,030 - INFO - distribution calcualted sucessfully
+2024-09-19 20:03:46,030 - INFO - distribution calcualted sucessfully
+2024-09-19 20:03:46,030 - INFO - distribution calcualted sucessfully
+2024-09-19 20:03:46,082 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,082 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,082 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,092 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,092 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,092 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,147 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,147 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,147 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,147 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,147 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,147 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:03:46,432 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:03:46,432 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:03:46,432 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:03:46,517 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:03:46,517 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:03:46,517 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:03:47,004 - INFO - changing the date column to standaed date time format
+2024-09-19 20:03:47,004 - INFO - changing the date column to standaed date time format
+2024-09-19 20:03:47,004 - INFO - changing the date column to standaed date time format
+2024-09-19 20:03:47,117 - INFO - making the date column the index of the data frame
+2024-09-19 20:03:47,117 - INFO - making the date column the index of the data frame
+2024-09-19 20:03:47,117 - INFO - making the date column the index of the data frame
+2024-09-19 20:03:47,130 - INFO - Plotting weekly sales ...
+2024-09-19 20:03:47,130 - INFO - Plotting weekly sales ...
+2024-09-19 20:03:47,130 - INFO - Plotting weekly sales ...
+2024-09-19 20:07:26,422 - INFO - data loading started
+2024-09-19 20:07:26,422 - INFO - data loading started
+2024-09-19 20:07:26,422 - INFO - data loading started
+2024-09-19 20:07:27,535 - INFO - check for distribution and plot
+2024-09-19 20:07:27,535 - INFO - check for distribution and plot
+2024-09-19 20:07:27,535 - INFO - check for distribution and plot
+2024-09-19 20:07:27,555 - INFO - distribution calcualted sucessfully
+2024-09-19 20:07:27,555 - INFO - distribution calcualted sucessfully
+2024-09-19 20:07:27,555 - INFO - distribution calcualted sucessfully
+2024-09-19 20:07:27,618 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,618 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,618 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,627 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,627 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,627 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,675 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,675 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,675 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,689 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,689 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:27,689 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:07:28,089 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:07:28,089 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:07:28,089 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:07:28,176 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:07:28,176 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:07:28,176 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:10:03,583 - INFO - data loading started
+2024-09-19 20:10:03,583 - INFO - data loading started
+2024-09-19 20:10:03,583 - INFO - data loading started
+2024-09-19 20:10:04,376 - INFO - check for distribution and plot
+2024-09-19 20:10:04,376 - INFO - check for distribution and plot
+2024-09-19 20:10:04,376 - INFO - check for distribution and plot
+2024-09-19 20:10:04,379 - INFO - distribution calcualted sucessfully
+2024-09-19 20:10:04,379 - INFO - distribution calcualted sucessfully
+2024-09-19 20:10:04,379 - INFO - distribution calcualted sucessfully
+2024-09-19 20:10:04,432 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,432 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,432 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,432 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,432 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,432 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,478 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,478 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,478 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,478 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,478 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,478 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:10:04,763 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:10:04,763 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:10:04,763 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:10:04,847 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:10:04,847 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:10:04,847 - INFO - Create a new column to mark the time periods: before , during , after holidays
+2024-09-19 20:10:05,452 - INFO - changing the date column to standaed date time format
+2024-09-19 20:10:05,452 - INFO - changing the date column to standaed date time format
+2024-09-19 20:10:05,452 - INFO - changing the date column to standaed date time format
+2024-09-19 20:10:05,656 - INFO - making the date column the index of the data frame
+2024-09-19 20:10:05,656 - INFO - making the date column the index of the data frame
+2024-09-19 20:10:05,656 - INFO - making the date column the index of the data frame
+2024-09-19 20:10:05,685 - INFO - Plotting weekly sales ...
+2024-09-19 20:10:05,685 - INFO - Plotting weekly sales ...
+2024-09-19 20:10:05,685 - INFO - Plotting weekly sales ...
+2024-09-19 20:11:04,733 - INFO - data loading started
+2024-09-19 20:11:04,733 - INFO - data loading started
+2024-09-19 20:11:04,733 - INFO - data loading started
+2024-09-19 20:11:05,749 - INFO - check for distribution and plot
+2024-09-19 20:11:05,749 - INFO - check for distribution and plot
+2024-09-19 20:11:05,749 - INFO - check for distribution and plot
+2024-09-19 20:11:05,769 - INFO - distribution calcualted sucessfully
+2024-09-19 20:11:05,769 - INFO - distribution calcualted sucessfully
+2024-09-19 20:11:05,769 - INFO - distribution calcualted sucessfully
+2024-09-19 20:11:05,821 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,821 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,821 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,826 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,826 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,826 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,884 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,884 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,884 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,893 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,893 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:05,893 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:11:06,347 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:11:06,347 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:11:06,347 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:11:06,438 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:11:06,438 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:11:06,438 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:12:14,961 - INFO - data loading started
+2024-09-19 20:12:14,961 - INFO - data loading started
+2024-09-19 20:12:14,961 - INFO - data loading started
+2024-09-19 20:12:15,922 - INFO - check for distribution and plot
+2024-09-19 20:12:15,922 - INFO - check for distribution and plot
+2024-09-19 20:12:15,922 - INFO - check for distribution and plot
+2024-09-19 20:12:15,946 - INFO - distribution calcualted sucessfully
+2024-09-19 20:12:15,946 - INFO - distribution calcualted sucessfully
+2024-09-19 20:12:15,946 - INFO - distribution calcualted sucessfully
+2024-09-19 20:12:15,998 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:15,998 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:15,998 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:16,013 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:16,013 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:16,013 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:16,078 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:16,078 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:16,078 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:16,088 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:16,088 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:16,088 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:12:16,522 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:12:16,522 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:12:16,522 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:12:16,611 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:12:16,611 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:12:16,611 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:12:17,545 - INFO - changing the date column to standaed date time format
+2024-09-19 20:12:17,545 - INFO - changing the date column to standaed date time format
+2024-09-19 20:12:17,545 - INFO - changing the date column to standaed date time format
+2024-09-19 20:12:17,677 - INFO - making the date column the index of the data frame
+2024-09-19 20:12:17,677 - INFO - making the date column the index of the data frame
+2024-09-19 20:12:17,677 - INFO - making the date column the index of the data frame
+2024-09-19 20:12:17,702 - INFO - Plotting weekly sales ...
+2024-09-19 20:12:17,702 - INFO - Plotting weekly sales ...
+2024-09-19 20:12:17,702 - INFO - Plotting weekly sales ...
+2024-09-19 20:15:09,505 - INFO - data loading started
+2024-09-19 20:15:09,505 - INFO - data loading started
+2024-09-19 20:15:09,505 - INFO - data loading started
+2024-09-19 20:15:10,479 - INFO - check for distribution and plot
+2024-09-19 20:15:10,479 - INFO - check for distribution and plot
+2024-09-19 20:15:10,479 - INFO - check for distribution and plot
+2024-09-19 20:15:10,494 - INFO - distribution calcualted sucessfully
+2024-09-19 20:15:10,494 - INFO - distribution calcualted sucessfully
+2024-09-19 20:15:10,494 - INFO - distribution calcualted sucessfully
+2024-09-19 20:15:10,541 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,541 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,541 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,541 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,541 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,541 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,588 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,588 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,588 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,600 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,600 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,600 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:15:10,934 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:15:10,934 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:15:10,934 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:15:11,039 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:15:11,039 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:15:11,039 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:15:11,818 - INFO - changing the date column to standaed date time format
+2024-09-19 20:15:11,818 - INFO - changing the date column to standaed date time format
+2024-09-19 20:15:11,818 - INFO - changing the date column to standaed date time format
+2024-09-19 20:15:11,939 - INFO - making the date column the index of the data frame
+2024-09-19 20:15:11,939 - INFO - making the date column the index of the data frame
+2024-09-19 20:15:11,939 - INFO - making the date column the index of the data frame
+2024-09-19 20:15:11,974 - INFO - Plotting weekly sales ...
+2024-09-19 20:15:11,974 - INFO - Plotting weekly sales ...
+2024-09-19 20:15:11,974 - INFO - Plotting weekly sales ...
+2024-09-19 20:38:27,871 - INFO - data loading started
+2024-09-19 20:38:27,871 - INFO - data loading started
+2024-09-19 20:38:27,871 - INFO - data loading started
+2024-09-19 20:38:28,939 - INFO - check for distribution and plot
+2024-09-19 20:38:28,939 - INFO - check for distribution and plot
+2024-09-19 20:38:28,939 - INFO - check for distribution and plot
+2024-09-19 20:38:28,964 - INFO - distribution calcualted sucessfully
+2024-09-19 20:38:28,964 - INFO - distribution calcualted sucessfully
+2024-09-19 20:38:28,964 - INFO - distribution calcualted sucessfully
+2024-09-19 20:38:29,032 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,032 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,032 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,042 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,042 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,042 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,119 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,119 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,119 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,130 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,130 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,130 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:38:29,569 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:38:29,569 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:38:29,569 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:38:29,654 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:38:29,654 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:38:29,654 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:38:30,300 - ERROR - error while creating the holidayperiod column : 'DataFrame' object has no attribute 'groupbt'
+2024-09-19 20:38:30,300 - ERROR - error while creating the holidayperiod column : 'DataFrame' object has no attribute 'groupbt'
+2024-09-19 20:38:30,300 - ERROR - error while creating the holidayperiod column : 'DataFrame' object has no attribute 'groupbt'
+2024-09-19 20:38:30,477 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:38:30,477 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:38:30,477 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:38:31,030 - INFO - changing the date column to standaed date time format
+2024-09-19 20:38:31,030 - INFO - changing the date column to standaed date time format
+2024-09-19 20:38:31,030 - INFO - changing the date column to standaed date time format
+2024-09-19 20:38:31,197 - INFO - making the date column the index of the data frame
+2024-09-19 20:38:31,197 - INFO - making the date column the index of the data frame
+2024-09-19 20:38:31,197 - INFO - making the date column the index of the data frame
+2024-09-19 20:38:31,238 - INFO - Plotting weekly sales ...
+2024-09-19 20:38:31,238 - INFO - Plotting weekly sales ...
+2024-09-19 20:38:31,238 - INFO - Plotting weekly sales ...
+2024-09-19 20:39:01,691 - INFO - data loading started
+2024-09-19 20:39:01,691 - INFO - data loading started
+2024-09-19 20:39:01,691 - INFO - data loading started
+2024-09-19 20:39:02,923 - INFO - check for distribution and plot
+2024-09-19 20:39:02,923 - INFO - check for distribution and plot
+2024-09-19 20:39:02,923 - INFO - check for distribution and plot
+2024-09-19 20:39:02,952 - INFO - distribution calcualted sucessfully
+2024-09-19 20:39:02,952 - INFO - distribution calcualted sucessfully
+2024-09-19 20:39:02,952 - INFO - distribution calcualted sucessfully
+2024-09-19 20:39:03,047 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,047 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,047 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,064 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,064 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,064 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,169 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,169 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,169 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,184 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,184 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,184 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:39:03,668 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:39:03,668 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:39:03,668 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:39:03,772 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:39:03,772 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:39:03,772 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:39:04,926 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:39:04,926 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:39:04,926 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:39:05,326 - INFO - changing the date column to standaed date time format
+2024-09-19 20:39:05,326 - INFO - changing the date column to standaed date time format
+2024-09-19 20:39:05,326 - INFO - changing the date column to standaed date time format
+2024-09-19 20:39:05,498 - INFO - making the date column the index of the data frame
+2024-09-19 20:39:05,498 - INFO - making the date column the index of the data frame
+2024-09-19 20:39:05,498 - INFO - making the date column the index of the data frame
+2024-09-19 20:39:05,529 - INFO - Plotting weekly sales ...
+2024-09-19 20:39:05,529 - INFO - Plotting weekly sales ...
+2024-09-19 20:39:05,529 - INFO - Plotting weekly sales ...
+2024-09-19 20:57:19,427 - INFO - data loading started
+2024-09-19 20:57:19,427 - INFO - data loading started
+2024-09-19 20:57:19,427 - INFO - data loading started
+2024-09-19 20:57:20,478 - INFO - check for distribution and plot
+2024-09-19 20:57:20,478 - INFO - check for distribution and plot
+2024-09-19 20:57:20,478 - INFO - check for distribution and plot
+2024-09-19 20:57:20,493 - INFO - distribution calcualted sucessfully
+2024-09-19 20:57:20,493 - INFO - distribution calcualted sucessfully
+2024-09-19 20:57:20,493 - INFO - distribution calcualted sucessfully
+2024-09-19 20:57:20,642 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,642 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,642 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,670 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,670 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,670 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,741 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,741 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,741 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,751 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,751 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:20,751 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:57:21,058 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:57:21,058 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:57:21,058 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:57:21,139 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:57:21,139 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:57:21,139 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:57:22,059 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:57:22,059 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:57:22,059 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:58:25,570 - INFO - data loading started
+2024-09-19 20:58:25,570 - INFO - data loading started
+2024-09-19 20:58:25,570 - INFO - data loading started
+2024-09-19 20:58:26,550 - INFO - check for distribution and plot
+2024-09-19 20:58:26,550 - INFO - check for distribution and plot
+2024-09-19 20:58:26,550 - INFO - check for distribution and plot
+2024-09-19 20:58:26,565 - INFO - distribution calcualted sucessfully
+2024-09-19 20:58:26,565 - INFO - distribution calcualted sucessfully
+2024-09-19 20:58:26,565 - INFO - distribution calcualted sucessfully
+2024-09-19 20:58:26,613 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,613 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,613 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,617 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,617 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,617 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,683 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,683 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,683 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,692 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,692 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,692 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 20:58:26,979 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:58:26,979 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:58:26,979 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 20:58:27,051 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:58:27,051 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:58:27,051 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 20:58:27,884 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:58:27,884 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:58:27,884 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 20:58:28,916 - INFO - changing the date column to standaed date time format
+2024-09-19 20:58:28,916 - INFO - changing the date column to standaed date time format
+2024-09-19 20:58:28,916 - INFO - changing the date column to standaed date time format
+2024-09-19 20:58:29,037 - INFO - making the date column the index of the data frame
+2024-09-19 20:58:29,037 - INFO - making the date column the index of the data frame
+2024-09-19 20:58:29,037 - INFO - making the date column the index of the data frame
+2024-09-19 20:58:29,066 - INFO - Plotting weekly sales ...
+2024-09-19 20:58:29,066 - INFO - Plotting weekly sales ...
+2024-09-19 20:58:29,066 - INFO - Plotting weekly sales ...
+2024-09-19 21:00:41,272 - INFO - data loading started
+2024-09-19 21:00:41,272 - INFO - data loading started
+2024-09-19 21:00:41,272 - INFO - data loading started
+2024-09-19 21:00:42,280 - INFO - check for distribution and plot
+2024-09-19 21:00:42,280 - INFO - check for distribution and plot
+2024-09-19 21:00:42,280 - INFO - check for distribution and plot
+2024-09-19 21:00:42,300 - INFO - distribution calcualted sucessfully
+2024-09-19 21:00:42,300 - INFO - distribution calcualted sucessfully
+2024-09-19 21:00:42,300 - INFO - distribution calcualted sucessfully
+2024-09-19 21:00:42,357 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,357 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,357 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,375 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,375 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,375 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,415 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,415 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,415 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,433 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,433 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,433 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-19 21:00:42,695 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 21:00:42,695 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 21:00:42,695 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-19 21:00:42,829 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 21:00:42,829 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 21:00:42,829 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-19 21:00:43,725 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 21:00:43,725 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 21:00:43,725 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-19 21:00:44,777 - INFO - changing the date column to standaed date time format
+2024-09-19 21:00:44,777 - INFO - changing the date column to standaed date time format
+2024-09-19 21:00:44,777 - INFO - changing the date column to standaed date time format
+2024-09-19 21:00:44,905 - INFO - making the date column the index of the data frame
+2024-09-19 21:00:44,905 - INFO - making the date column the index of the data frame
+2024-09-19 21:00:44,905 - INFO - making the date column the index of the data frame
+2024-09-19 21:00:44,933 - INFO - Plotting weekly sales ...
+2024-09-19 21:00:44,933 - INFO - Plotting weekly sales ...
+2024-09-19 21:00:44,933 - INFO - Plotting weekly sales ...
+2024-09-20 09:06:10,436 - INFO - data loading started
+2024-09-20 09:06:10,436 - INFO - data loading started
+2024-09-20 09:06:10,436 - INFO - data loading started
+2024-09-20 09:06:11,365 - INFO - check for distribution and plot
+2024-09-20 09:06:11,365 - INFO - check for distribution and plot
+2024-09-20 09:06:11,365 - INFO - check for distribution and plot
+2024-09-20 09:06:11,389 - INFO - distribution calcualted sucessfully
+2024-09-20 09:06:11,389 - INFO - distribution calcualted sucessfully
+2024-09-20 09:06:11,389 - INFO - distribution calcualted sucessfully
+2024-09-20 09:06:11,479 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,479 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,479 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,526 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,526 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,526 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,581 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,581 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,581 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,585 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,585 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,585 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:06:11,966 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 09:06:11,966 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 09:06:11,966 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 09:06:12,047 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-20 09:06:12,047 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-20 09:06:12,047 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-20 09:06:12,831 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-20 09:06:12,831 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-20 09:06:12,831 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-20 09:06:13,872 - INFO - changing the date column to standaed date time format
+2024-09-20 09:06:13,872 - INFO - changing the date column to standaed date time format
+2024-09-20 09:06:13,872 - INFO - changing the date column to standaed date time format
+2024-09-20 09:06:14,013 - INFO - making the date column the index of the data frame
+2024-09-20 09:06:14,013 - INFO - making the date column the index of the data frame
+2024-09-20 09:06:14,013 - INFO - making the date column the index of the data frame
+2024-09-20 09:06:14,049 - INFO - Plotting weekly sales ...
+2024-09-20 09:06:14,049 - INFO - Plotting weekly sales ...
+2024-09-20 09:06:14,049 - INFO - Plotting weekly sales ...
+2024-09-20 09:25:29,248 - INFO - data loading started
+2024-09-20 09:25:29,248 - INFO - data loading started
+2024-09-20 09:25:29,248 - INFO - data loading started
+2024-09-20 09:25:30,038 - INFO - check for distribution and plot
+2024-09-20 09:25:30,038 - INFO - check for distribution and plot
+2024-09-20 09:25:30,038 - INFO - check for distribution and plot
+2024-09-20 09:25:30,053 - INFO - distribution calcualted sucessfully
+2024-09-20 09:25:30,053 - INFO - distribution calcualted sucessfully
+2024-09-20 09:25:30,053 - INFO - distribution calcualted sucessfully
+2024-09-20 09:25:30,087 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,087 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,087 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,094 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,094 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,094 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,134 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,134 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,134 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,134 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,134 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,134 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2024-09-20 09:25:30,373 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 09:25:30,373 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 09:25:30,373 - INFO - working on Statistical Test - Chi-Squared Test
+2024-09-20 09:25:30,427 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-20 09:25:30,427 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-20 09:25:30,427 - INFO - Create a new column to mark the time periods: before, during, after holidays
+2024-09-20 09:25:31,066 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-20 09:25:31,066 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-20 09:25:31,066 - INFO - performing the ab hypotesis test over the before during and after holiday sales distribution
+2024-09-20 09:25:31,898 - INFO - performing the correlation between the number of customers and sales
+2024-09-20 09:25:31,898 - INFO - performing the correlation between the number of customers and sales
+2024-09-20 09:25:31,898 - INFO - performing the correlation between the number of customers and sales
+2024-09-20 09:25:34,362 - INFO - changing the date column to standaed date time format
+2024-09-20 09:25:34,362 - INFO - changing the date column to standaed date time format
+2024-09-20 09:25:34,362 - INFO - changing the date column to standaed date time format
+2024-09-20 09:25:34,452 - INFO - making the date column the index of the data frame
+2024-09-20 09:25:34,452 - INFO - making the date column the index of the data frame
+2024-09-20 09:25:34,452 - INFO - making the date column the index of the data frame
+2024-09-20 09:25:34,485 - INFO - Plotting weekly sales ...
+2024-09-20 09:25:34,485 - INFO - Plotting weekly sales ...
+2024-09-20 09:25:34,485 - INFO - Plotting weekly sales ...

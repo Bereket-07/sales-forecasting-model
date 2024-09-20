@@ -47,7 +47,15 @@ def see_and_handle_missing_values_and_outliers(data,name_of_the_data_set):
         indivdual_histogram(data,name_of_the_data_set)
     except Exception as e:
         logger.error(f" error while performing to visualize the data cleanes {e}")
-    
+def edit_cstate_holiday_column(train):
+    logger.info("making changing the train stateholiday columns from this ['0', 'a', 'b', 'c', 0] to this ['0', 'a', 'b', 'c', ]")
+    try:
+        train.loc[(train['StateHoliday'] == '0'),'StateHoliday'] = 0
+        return train
+    except Exception as e:
+        logger.error(f"error while changing column : {e}")
+
+      
 
 
 
