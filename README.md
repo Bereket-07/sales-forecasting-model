@@ -23,25 +23,19 @@
 This project involves the exploration and analysis of customer purchasing behavior across various stores using machine learning and statistical techniques. The main goal is to understand how factors like promotions, store types, holidays, and competitor distances affect sales and customer behavior.
 
 ## 2. Data Cleaning & Preparation
-- **Data Cleaning Pipeline**: Missing values were handled and outliers were detected to ensure the dataset's integrity. Specifically, we imputed missing values in key columns like `CompetitionDistance` and removed unnecessary columns.
-- **Outlier Detection**: Potential outliers in sales and customer data were examined and handled appropriately.
-- **Logging**: All key steps in the data cleaning and analysis process were logged using the Python `logger` library for traceability and reproducibility.
+- **Data Cleaning Pipeline**
+- **Outlier Detection**
+- **Logging**
 
 ## 3. Exploratory Data Analysis (EDA)
-- **Promo Distribution**: The distribution of promotions between the training and test sets was compared.
-- **Holiday Sales Analysis**: Sales behavior was compared before, during, and after public holidays such as Christmas, Easter, and other state holidays.
-- **Correlation Analysis**: A detailed correlation analysis between the number of customers and sales was performed using visual tools like scatter plots and heatmaps.
-- **Promotion Effectiveness**: We examined the impact of promotions on sales and customer count to assess whether promotions attracted more customers or boosted spending among existing customers.
-- **Store Weekday Sales**: The effect of stores being open on all weekdays on their weekend sales was analyzed to see if there was any significant difference.
-- **Assortment Type Analysis**: We explored how the store assortment type affects sales performance across stores.
-- **Competitor Distance Impact**: The effect of competitor proximity on store sales was analyzed, especially in cases where competitor distances were initially missing but later became available.
-
-## 4. Key Findings
-- Promotions significantly increased both the number of customers and sales.
-- Holiday sales showed a marked difference, with public holidays generating higher sales.
-- Store sales were generally higher on weekdays than weekends, and certain store types saw less impact from competitor proximity.
-  
-## 5. Logging & Traceability
+- **Promo Distribution**
+- **Holiday Sales Analysis**
+- **Correlation Analysis**
+- **Promotion Effectiveness**
+- **Store Weekday Sales**
+- **Assortment Type Analysis**
+- **Competitor Distance Impact**  
+## 4. Logging & Traceability
 - All steps, from data loading and cleaning to analysis, were logged using the Python `logger` module.
 - This ensures reproducibility and traceability for future use and collaboration.
 
@@ -56,42 +50,16 @@ The project provides actionable insights into customer behavior, the impact of p
 # Tools & Libraries Used
 
 1. **Programming Language**: [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow)](https://www.python.org/)
-
 2. **Data Manipulation**: [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-   - Used for data cleaning, filtering, and manipulation of large datasets.
-
 3. **Numerical Computing**: [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-   - Essential for numerical computations and array manipulations.
-
-4. **Data Visualization**: 
-   - [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)](https://matplotlib.org/) 
-     - Used for creating various plots such as scatter plots, histograms, and line graphs.
-   - [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org/)
-     - Used for enhanced statistical visualizations and heatmaps.
-
+4. **Data Visualization**: [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)](https://matplotlib.org/) [![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 5. **Logging**: [![Logger](https://img.shields.io/badge/Logging-4B8BBE?style=flat&logo=python&logoColor=yellow)](https://docs.python.org/3/howto/logging.html)
-   - Python's `logger` library used for tracking the steps and errors during the analysis for traceability and reproducibility.
-
 6. **Statistical Analysis**: [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
-   - Conducted ANOVA and other statistical tests to understand patterns in the data.
-
-7. **Machine Learning Framework**: 
-   - [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-     - For predictive modeling and evaluation (if relevant models are applied).
-
+7. **Machine Learning Framework**: [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 8. **Jupyter Notebooks**: [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-   - Used as the primary development environment for interactive data analysis and visualization.
-
 9. **Version Control**: [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-   - For versioning and collaboration across the project repository.
-
 10. **Code Formatting & Linting**: [![Black](https://img.shields.io/badge/Black-000000?style=flat&logo=python&logoColor=white)](https://github.com/psf/black)
-    - Automated code formatting for maintaining consistent style throughout the project.
-
 11. **Continuous Integration (CI)**: [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-    - Implemented CI pipelines to ensure quality and robustness in the development workflow.
-
-
 
 ## Folder Organization
 
