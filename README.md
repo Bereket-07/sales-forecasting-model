@@ -123,8 +123,6 @@ The project provides actionable insights into customer behavior, the impact of p
 └── 📜.gitignore
 └── 📰README.md
 └── 🔋requirements.txt
-└── 📇setup.py.py
-└── 📇TA_Lib-0.4.29-cp312-cp312-win_amd64.whl
 └── 📇templates.py
 
 ```
