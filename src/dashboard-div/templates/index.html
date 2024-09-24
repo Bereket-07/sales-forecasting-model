@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Prediction App</title>
+    <link rel="stylesheet" href="../static/styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Sales Prediction App</h1>
+        <form id="prediction-form">
+            <div class="form-group">
+                <label for="store_id">Store ID</label>
+                <input type="number" id="store_id" placeholder="e.g., 1" required>
+            </div>
+            <div class="form-group">
+                <label for="day_of_week">Day of Week</label>
+                <input type="number" id="day_of_week" min="1" max="7" placeholder="1 (Monday) to 7 (Sunday)" required>
+            </div>
+            <div class="form-group">
+                <label for="date">Date</label>
+                <input type="date" id="date" required>
+            </div>
+            <div class="form-group">
+                <label for="open_store">Open Store</label>
+                <input type="number" id="open_store" min="0" max="1" placeholder="1 (Open) or 0 (Closed)" required>
+            </div>
+            <div class="form-group">
+                <label for="promo">Promo</label>
+                <input type="number" id="promo" min="0" max="1" placeholder="1 (Promo) or 0 (No Promo)" required>
+            </div>
+            <div class="form-group">
+                <label for="state_holiday">State Holiday</label>
+                <select id="state_holiday" required>
+                    <option value="0">None</option>
+                    <option value="a">Public Holiday</option>
+                    <option value="b">Easter Holiday</option>
+                    <option value="c">Christmas</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="school_holiday">School Holiday</label>
+                <input type="number" id="school_holiday" min="0" max="1" placeholder="1 (Yes) or 0 (No)" required>
+            </div>
+            <button type="submit">Predict Sales</button>
+        </form>
+        <div id="result" class="result"></div>
+    </div>
+
+    <script>
+        $('#prediction-form').on('submit', function(event) {
+            event.preventDefault();
+            const data = {
+                store_id: parseInt($('#store_id').val()),
+                day_of_week: parseInt($('#day_of_week').val()),
+                date: $('#date').val(),
+                open_store: parseInt($('#open_store').val()),
+                promo: parseInt($('#promo').val()),
+                state_holiday: $('#state_holiday').val(),
+                school_holiday: parseInt($('#school_holiday').val())
+            };
+
+            $.ajax({
+                url: 'http://127.0.0.1:5000/predict', // Change this to your API URL
+                type: 'POST',
+                contentType: 'application/json',
+                data: JSON.stringify(data),
+                success: function(response) {
+                    $('#result').html(`
+                        <div class="output">
+                            <h2>Predicted Sales for Store ID ${response.store_id}</h2>
+                            <h3 class="predicted-value">$${response.predicted_sales.toFixed(2)}</h3>
+                        </div>
+                    `);
+                },
+                error: function() {
+                    $('#result').html('<h2 class="error">Error in prediction. Please try again.</h2>');
+                }
+            });
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+2024-09-21 11:47:12,135 - ERROR - error happened : Encoders require their input argument must be uniformly strings or numbers. Got ['int', 'str']
+2024-09-21 11:48:57,598 - ERROR - error happened : Encoders require their input argument must be uniformly strings or numbers. Got ['int', 'str']
+2024-09-21 11:50:44,607 - ERROR - error happened : Encoders require their input argument must be uniformly strings or numbers. Got ['int', 'str']
+2024-09-21 11:51:02,679 - ERROR - error happened : Encoders require their input argument must be uniformly strings or numbers. Got ['int', 'str']
+2024-09-21 14:56:21,059 - ERROR - error while 'Series' object has no attribute 'days'
+2024-09-22 13:11:32,513 - ERROR - error occured : 'DatetimeArray' object has no attribute 'empty' 
+2024-09-22 13:12:10,801 - ERROR - error occured : 'DatetimeArray' object has no attribute 'empty' 
+2024-09-22 13:41:22,773 - ERROR - error occured : 'DatetimeArray' object has no attribute 'iloc' 
+2024-09-22 13:41:52,676 - ERROR - error occured : 'DatetimeArray' object has no attribute 'iloc' 
+2024-09-22 13:43:44,919 - ERROR - error occured : 'DatetimeArray' object has no attribute 'dt' 
+2024-09-22 13:45:21,352 - ERROR - error occured : 'DatetimeArray' object has no attribute 'dt' 

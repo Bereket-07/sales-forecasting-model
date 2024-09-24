@@ -1,0 +1,492 @@
+2024-09-21 11:45:24,071 - INFO - loadding the data set
+2024-09-21 11:45:24,756 - INFO - the data sucessfully uploaded
+2024-09-21 11:46:12,494 - INFO - loadding the data set
+2024-09-21 11:46:13,338 - INFO - the data sucessfully uploaded
+2024-09-21 11:47:11,980 - INFO - convert catagorical column to numerical column
+2024-09-21 11:47:12,135 - ERROR - error happened : Encoders require their input argument must be uniformly strings or numbers. Got ['int', 'str']
+2024-09-21 11:48:57,506 - INFO - convert catagorical column to numerical column
+2024-09-21 11:48:57,598 - ERROR - error happened : Encoders require their input argument must be uniformly strings or numbers. Got ['int', 'str']
+2024-09-21 11:50:44,498 - INFO - convert catagorical column to numerical column
+2024-09-21 11:50:44,607 - ERROR - error happened : Encoders require their input argument must be uniformly strings or numbers. Got ['int', 'str']
+2024-09-21 11:51:01,649 - INFO - loadding the data set
+2024-09-21 11:51:02,369 - INFO - the data sucessfully uploaded
+2024-09-21 11:51:02,423 - INFO - convert catagorical column to numerical column
+2024-09-21 11:51:02,679 - ERROR - error happened : Encoders require their input argument must be uniformly strings or numbers. Got ['int', 'str']
+2024-09-21 11:53:21,195 - INFO - loadding the data set
+2024-09-21 11:53:21,928 - INFO - the data sucessfully uploaded
+2024-09-21 11:53:21,971 - INFO - convert catagorical column to numerical column
+2024-09-21 11:54:30,393 - INFO - extracting new featuires
+2024-09-21 12:00:54,914 - INFO - loadding the data set
+2024-09-21 12:00:56,745 - INFO - the data sucessfully uploaded
+2024-09-21 12:00:56,828 - INFO - convert catagorical column to numerical column
+2024-09-21 12:00:57,479 - INFO - extracting new featuires
+2024-09-21 12:00:57,481 - INFO - date changing to datetime
+2024-09-21 12:00:57,710 - INFO - date changinged to datetime succesfully
+2024-09-21 12:00:57,713 - INFO - extrating weekend
+2024-09-21 12:00:58,542 - INFO - extrating weekend succesfull
+2024-09-21 12:00:58,544 - INFO - month postioning
+2024-09-21 12:00:58,923 - INFO - month postioning finished
+2024-09-21 12:00:58,927 - INFO -  extracting days to next holiday 
+2024-09-21 12:09:19,332 - INFO - loadding the data set
+2024-09-21 12:09:20,150 - INFO - the data sucessfully uploaded
+2024-09-21 12:09:20,194 - INFO - convert catagorical column to numerical column
+2024-09-21 12:09:20,559 - INFO - extracting new featuires
+2024-09-21 12:09:20,563 - INFO - date changing to datetime
+2024-09-21 12:09:20,700 - INFO - date changinged to datetime succesfully
+2024-09-21 12:09:20,703 - INFO - extrating weekend
+2024-09-21 12:09:21,281 - INFO - extrating weekend succesfull
+2024-09-21 12:09:21,281 - INFO - month postioning
+2024-09-21 12:09:21,592 - INFO - month postioning finished
+2024-09-21 12:09:21,597 - INFO -  extracting days to next holiday 
+2024-09-21 12:09:45,650 - INFO -  extracting days to next holiday completed 
+2024-09-21 12:09:45,650 - INFO - calculating sales growth
+2024-09-21 12:09:45,710 - INFO - calculating sales growth complete
+2024-09-21 13:34:33,466 - INFO - loadding the data set
+2024-09-21 13:34:35,383 - INFO - the data sucessfully uploaded
+2024-09-21 13:34:35,486 - INFO - convert catagorical column to numerical column
+2024-09-21 13:34:36,184 - INFO - extracting new featuires
+2024-09-21 13:34:36,185 - INFO - date changing to datetime
+2024-09-21 13:34:36,503 - INFO - date changinged to datetime succesfully
+2024-09-21 13:34:36,511 - INFO - extrating weekend
+2024-09-21 13:34:37,542 - INFO - extrating weekend succesfull
+2024-09-21 13:34:37,549 - INFO - month postioning
+2024-09-21 13:34:38,282 - INFO - month postioning finished
+2024-09-21 13:34:38,282 - INFO -  extracting days to next holiday 
+2024-09-21 13:34:38,290 - INFO - Extracting DaysToNextHoliday feature
+2024-09-21 13:41:38,904 - INFO -  extracting days to next holiday completed 
+2024-09-21 13:41:38,904 - INFO - calculating sales growth
+2024-09-21 13:41:39,155 - INFO - calculating sales growth complete
+2024-09-21 14:30:30,019 - INFO - loadding the data set
+2024-09-21 14:30:31,011 - INFO - the data sucessfully uploaded
+2024-09-21 14:30:31,078 - INFO - convert catagorical column to numerical column
+2024-09-21 14:30:31,411 - INFO - extracting new featuires
+2024-09-21 14:30:31,413 - INFO - date changing to datetime
+2024-09-21 14:30:31,555 - INFO - date changinged to datetime succesfully
+2024-09-21 14:30:31,555 - INFO - extrating weekend
+2024-09-21 14:30:32,010 - INFO - extrating weekend succesfull
+2024-09-21 14:30:32,012 - INFO - month postioning
+2024-09-21 14:30:32,341 - INFO - month postioning finished
+2024-09-21 14:30:32,345 - INFO -  extracting days to next holiday 
+2024-09-21 14:30:32,345 - INFO - Extracting DaysToNextHoliday feature
+2024-09-21 14:36:30,566 - INFO -  extracting days to next holiday completed 
+2024-09-21 14:36:30,566 - INFO - calculating sales growth
+2024-09-21 14:36:30,600 - INFO - calculating sales growth complete
+2024-09-21 14:53:37,895 - INFO - loadding the data set
+2024-09-21 14:53:39,088 - INFO - the data sucessfully uploaded
+2024-09-21 14:53:39,140 - INFO - convert catagorical column to numerical column
+2024-09-21 14:53:39,469 - INFO - extracting new featuires
+2024-09-21 14:53:39,469 - INFO - date changing to datetime
+2024-09-21 14:53:39,611 - INFO - date changinged to datetime succesfully
+2024-09-21 14:53:39,611 - INFO - extrating weekend
+2024-09-21 14:53:40,042 - INFO - extrating weekend succesfull
+2024-09-21 14:53:40,042 - INFO - month postioning
+2024-09-21 14:53:40,264 - INFO - month postioning finished
+2024-09-21 14:53:40,264 - INFO -  extracting days to next holiday 
+2024-09-21 14:53:40,264 - INFO - Extracting DaysToNextHoliday feature
+2024-09-21 14:53:56,582 - INFO - extracting new featuires
+2024-09-21 14:53:56,583 - INFO - date changing to datetime
+2024-09-21 14:53:56,645 - INFO - date changinged to datetime succesfully
+2024-09-21 14:53:56,645 - INFO - extrating weekend
+2024-09-21 14:53:57,152 - INFO - extrating weekend succesfull
+2024-09-21 14:53:57,152 - INFO - month postioning
+2024-09-21 14:53:57,399 - INFO - month postioning finished
+2024-09-21 14:53:57,399 - INFO -  extracting days to next holiday 
+2024-09-21 14:53:57,399 - INFO - Extracting DaysToNextHoliday feature
+2024-09-21 14:56:18,613 - INFO - loadding the data set
+2024-09-21 14:56:19,462 - INFO - the data sucessfully uploaded
+2024-09-21 14:56:19,515 - INFO - convert catagorical column to numerical column
+2024-09-21 14:56:19,916 - INFO - extracting new featuires
+2024-09-21 14:56:19,918 - INFO - date changing to datetime
+2024-09-21 14:56:20,078 - INFO - date changinged to datetime succesfully
+2024-09-21 14:56:20,085 - INFO - extrating weekend
+2024-09-21 14:56:20,566 - INFO - extrating weekend succesfull
+2024-09-21 14:56:20,566 - INFO - month postioning
+2024-09-21 14:56:20,831 - INFO - month postioning finished
+2024-09-21 14:56:20,831 - INFO -  extracting days to next holiday 
+2024-09-21 14:56:20,831 - INFO - Extracting DaysToNextHoliday feature
+2024-09-21 14:56:21,059 - ERROR - error while 'Series' object has no attribute 'days'
+2024-09-21 14:59:07,849 - INFO - loadding the data set
+2024-09-21 14:59:08,869 - INFO - the data sucessfully uploaded
+2024-09-21 14:59:08,927 - INFO - convert catagorical column to numerical column
+2024-09-21 14:59:09,336 - INFO - extracting new featuires
+2024-09-21 14:59:09,339 - INFO - date changing to datetime
+2024-09-21 14:59:09,477 - INFO - date changinged to datetime succesfully
+2024-09-21 14:59:09,481 - INFO - extrating weekend
+2024-09-21 14:59:09,938 - INFO - extrating weekend succesfull
+2024-09-21 14:59:09,942 - INFO - month postioning
+2024-09-21 14:59:10,178 - INFO - month postioning finished
+2024-09-21 14:59:10,178 - INFO -  extracting days to next holiday 
+2024-09-21 14:59:10,178 - INFO - Extracting DaysToNextHoliday feature
+2024-09-21 15:05:11,573 - INFO - loadding the data set
+2024-09-21 15:05:12,543 - INFO - the data sucessfully uploaded
+2024-09-21 15:05:12,599 - INFO - convert catagorical column to numerical column
+2024-09-21 15:05:12,964 - INFO - extracting new featuires
+2024-09-21 15:05:12,966 - INFO - date changing to datetime
+2024-09-21 15:05:13,110 - INFO - date changinged to datetime succesfully
+2024-09-21 15:05:13,110 - INFO - extrating weekend
+2024-09-21 15:05:13,528 - INFO - extrating weekend succesfull
+2024-09-21 15:05:13,530 - INFO - month postioning
+2024-09-21 15:05:13,774 - INFO - month postioning finished
+2024-09-21 15:05:13,775 - INFO -  extracting days to next holiday 
+2024-09-21 15:05:13,778 - INFO - Extracting DaysToNextHoliday feature
+2024-09-21 15:10:37,922 - INFO - loadding the data set
+2024-09-21 15:10:38,928 - INFO - the data sucessfully uploaded
+2024-09-21 15:10:38,966 - INFO - convert catagorical column to numerical column
+2024-09-21 15:10:39,290 - INFO - extracting new featuires
+2024-09-21 15:10:39,291 - INFO - date changing to datetime
+2024-09-21 15:10:39,426 - INFO - date changinged to datetime succesfully
+2024-09-21 15:10:39,427 - INFO - extrating weekend
+2024-09-21 15:10:39,936 - INFO - extrating weekend succesfull
+2024-09-21 15:10:39,936 - INFO - month postioning
+2024-09-21 15:10:40,190 - INFO - month postioning finished
+2024-09-21 15:10:40,190 - INFO -  extracting days to next holiday 
+2024-09-21 15:10:40,190 - INFO - Extracting DaysToNextHoliday feature
+2024-09-21 15:15:43,967 - INFO - loadding the data set
+2024-09-21 15:15:45,085 - INFO - the data sucessfully uploaded
+2024-09-21 15:15:45,151 - INFO - convert catagorical column to numerical column
+2024-09-21 15:15:45,623 - INFO - extracting new featuires
+2024-09-21 15:15:45,624 - INFO - date changing to datetime
+2024-09-21 15:15:45,782 - INFO - date changinged to datetime succesfully
+2024-09-21 15:15:45,797 - INFO - extrating weekend
+2024-09-21 15:15:46,484 - INFO - extrating weekend succesfull
+2024-09-21 15:15:46,493 - INFO - month postioning
+2024-09-21 15:15:46,733 - INFO - month postioning finished
+2024-09-21 15:15:46,733 - INFO -  extracting days to next holiday 
+2024-09-21 15:15:46,733 - INFO - Extracting DaysToNextHoliday feature
+2024-09-21 19:19:31,098 - INFO - loadding the data set
+2024-09-21 19:19:31,817 - INFO - the data sucessfully uploaded
+2024-09-21 19:19:31,868 - INFO - convert catagorical column to numerical column
+2024-09-21 19:19:32,136 - INFO - extracting new featuires
+2024-09-21 19:19:32,136 - INFO - date changing to datetime
+2024-09-21 19:19:32,250 - INFO - date changinged to datetime succesfully
+2024-09-21 19:19:32,250 - INFO - extrating weekend
+2024-09-21 19:19:32,605 - INFO - extrating weekend succesfull
+2024-09-21 19:19:32,607 - INFO - month postioning
+2024-09-21 19:19:32,843 - INFO - month postioning finished
+2024-09-21 19:19:32,845 - INFO -  extracting days to next holiday 
+2024-09-21 19:19:32,845 - INFO - Extracting DaysToNextHoliday feature
+2024-09-21 19:26:25,600 - INFO - loadding the data set
+2024-09-21 19:26:26,483 - INFO - the data sucessfully uploaded
+2024-09-21 19:26:26,572 - INFO - convert catagorical column to numerical column
+2024-09-21 19:26:26,838 - INFO - extracting new featuires
+2024-09-21 19:26:26,839 - INFO - date changing to datetime
+2024-09-21 19:26:26,936 - INFO - date changinged to datetime succesfully
+2024-09-21 19:26:26,936 - INFO - extrating weekend
+2024-09-21 19:26:27,286 - INFO - extrating weekend succesfull
+2024-09-21 19:26:27,298 - INFO - month postioning
+2024-09-21 19:26:27,513 - INFO - month postioning finished
+2024-09-21 19:26:27,513 - INFO - calculating sales growth
+2024-09-21 19:26:27,540 - INFO - calculating sales growth complete
+2024-09-21 19:30:29,410 - INFO - loadding the data set
+2024-09-21 19:30:30,211 - INFO - the data sucessfully uploaded
+2024-09-21 19:30:30,262 - INFO - convert catagorical column to numerical column
+2024-09-21 19:30:30,512 - INFO - extracting new featuires
+2024-09-21 19:30:30,512 - INFO - date changing to datetime
+2024-09-21 19:30:30,624 - INFO - date changinged to datetime succesfully
+2024-09-21 19:30:30,626 - INFO - extrating weekend
+2024-09-21 19:30:30,914 - INFO - extrating weekend succesfull
+2024-09-21 19:30:30,926 - INFO - month postioning
+2024-09-21 19:30:31,110 - INFO - month postioning finished
+2024-09-21 19:30:31,110 - INFO - calculating sales growth
+2024-09-21 19:30:31,147 - INFO - calculating sales growth complete
+2024-09-21 19:30:49,835 - INFO - loadding the data set
+2024-09-21 19:30:50,747 - INFO - the data sucessfully uploaded
+2024-09-21 19:30:50,797 - INFO - convert catagorical column to numerical column
+2024-09-21 19:30:51,113 - INFO - extracting new featuires
+2024-09-21 19:30:51,114 - INFO - date changing to datetime
+2024-09-21 19:30:51,239 - INFO - date changinged to datetime succesfully
+2024-09-21 19:30:51,241 - INFO - extrating weekend
+2024-09-21 19:30:51,613 - INFO - extrating weekend succesfull
+2024-09-21 19:30:51,615 - INFO - month postioning
+2024-09-21 19:30:51,811 - INFO - month postioning finished
+2024-09-21 19:30:51,813 - INFO - calculating sales growth
+2024-09-21 19:30:51,850 - INFO - calculating sales growth complete
+2024-09-21 19:30:57,125 - INFO - loadding the data set
+2024-09-21 19:30:57,891 - INFO - the data sucessfully uploaded
+2024-09-21 19:30:57,927 - INFO - convert catagorical column to numerical column
+2024-09-21 19:30:58,172 - INFO - extracting new featuires
+2024-09-21 19:30:58,173 - INFO - date changing to datetime
+2024-09-21 19:30:58,274 - INFO - date changinged to datetime succesfully
+2024-09-21 19:30:58,274 - INFO - extrating weekend
+2024-09-21 19:30:58,624 - INFO - extrating weekend succesfull
+2024-09-21 19:30:58,627 - INFO - month postioning
+2024-09-21 19:30:58,889 - INFO - month postioning finished
+2024-09-21 19:30:58,889 - INFO - calculating sales growth
+2024-09-21 19:30:58,926 - INFO - calculating sales growth complete
+2024-09-21 19:31:11,624 - INFO - loadding the data set
+2024-09-21 19:31:12,326 - INFO - the data sucessfully uploaded
+2024-09-21 19:31:12,362 - INFO - convert catagorical column to numerical column
+2024-09-21 19:31:12,590 - INFO - extracting new featuires
+2024-09-21 19:31:12,590 - INFO - date changing to datetime
+2024-09-21 19:31:12,671 - INFO - date changinged to datetime succesfully
+2024-09-21 19:31:12,687 - INFO - extrating weekend
+2024-09-21 19:31:13,004 - INFO - extrating weekend succesfull
+2024-09-21 19:31:13,021 - INFO - month postioning
+2024-09-21 19:31:13,236 - INFO - month postioning finished
+2024-09-21 19:31:13,237 - INFO - calculating sales growth
+2024-09-21 19:31:13,272 - INFO - calculating sales growth complete
+2024-09-21 19:31:16,676 - INFO - extracting new featuires
+2024-09-21 19:31:16,678 - INFO - date changing to datetime
+2024-09-21 19:31:16,705 - INFO - date changinged to datetime succesfully
+2024-09-21 19:31:16,705 - INFO - extrating weekend
+2024-09-21 19:31:16,968 - INFO - extrating weekend succesfull
+2024-09-21 19:31:16,971 - INFO - month postioning
+2024-09-21 19:31:17,155 - INFO - month postioning finished
+2024-09-21 19:31:17,155 - INFO - calculating sales growth
+2024-09-21 19:31:17,189 - INFO - calculating sales growth complete
+2024-09-21 19:31:22,016 - INFO - extracting new featuires
+2024-09-21 19:31:22,017 - INFO - date changing to datetime
+2024-09-21 19:31:22,055 - INFO - date changinged to datetime succesfully
+2024-09-21 19:31:22,071 - INFO - extrating weekend
+2024-09-21 19:31:22,337 - INFO - extrating weekend succesfull
+2024-09-21 19:31:22,337 - INFO - month postioning
+2024-09-21 19:31:22,490 - INFO - month postioning finished
+2024-09-21 19:31:22,490 - INFO - calculating sales growth
+2024-09-21 19:31:22,525 - INFO - calculating sales growth complete
+2024-09-21 19:31:28,328 - INFO - extracting new featuires
+2024-09-21 19:31:28,329 - INFO - date changing to datetime
+2024-09-21 19:31:28,371 - INFO - date changinged to datetime succesfully
+2024-09-21 19:31:28,371 - INFO - extrating weekend
+2024-09-21 19:31:28,735 - INFO - extrating weekend succesfull
+2024-09-21 19:31:28,735 - INFO - month postioning
+2024-09-21 19:31:28,936 - INFO - month postioning finished
+2024-09-21 19:31:28,937 - INFO - calculating sales growth
+2024-09-21 19:31:28,970 - INFO - calculating sales growth complete
+2024-09-22 12:35:43,593 - INFO - loadding the data set
+2024-09-22 12:35:44,640 - INFO - the data sucessfully uploaded
+2024-09-22 12:35:44,695 - INFO - convert catagorical column to numerical column
+2024-09-22 12:35:45,039 - INFO - extracting new featuires
+2024-09-22 12:35:45,039 - INFO - date changing to datetime
+2024-09-22 12:35:45,171 - INFO - date changinged to datetime succesfully
+2024-09-22 12:35:45,171 - INFO - extrating weekend
+2024-09-22 12:35:45,555 - INFO - extrating weekend succesfull
+2024-09-22 12:35:45,572 - INFO - month postioning
+2024-09-22 12:35:45,808 - INFO - month postioning finished
+2024-09-22 12:35:45,808 - INFO - calculating sales growth
+2024-09-22 12:35:45,840 - INFO - calculating sales growth complete
+2024-09-22 12:35:45,975 - INFO - finding the holiday days in the data set
+2024-09-22 12:35:46,011 - INFO - all holidays found
+2024-09-22 12:36:14,848 - INFO - finding the holiday days in the data set
+2024-09-22 12:36:14,883 - INFO - all holidays found
+2024-09-22 12:36:46,122 - INFO - finding the holiday days in the data set
+2024-09-22 12:36:46,163 - INFO - all holidays found
+2024-09-22 12:37:37,436 - INFO - loadding the data set
+2024-09-22 12:37:38,641 - INFO - the data sucessfully uploaded
+2024-09-22 12:37:38,694 - INFO - convert catagorical column to numerical column
+2024-09-22 12:37:39,045 - INFO - extracting new featuires
+2024-09-22 12:37:39,046 - INFO - date changing to datetime
+2024-09-22 12:37:39,171 - INFO - date changinged to datetime succesfully
+2024-09-22 12:37:39,171 - INFO - extrating weekend
+2024-09-22 12:37:39,570 - INFO - extrating weekend succesfull
+2024-09-22 12:37:39,570 - INFO - month postioning
+2024-09-22 12:37:39,853 - INFO - month postioning finished
+2024-09-22 12:37:39,859 - INFO - calculating sales growth
+2024-09-22 12:37:39,893 - INFO - calculating sales growth complete
+2024-09-22 12:37:41,587 - INFO - finding the holiday days in the data set
+2024-09-22 12:37:41,631 - INFO - all holidays found
+2024-09-22 12:39:17,854 - INFO - loadding the data set
+2024-09-22 12:39:18,823 - INFO - the data sucessfully uploaded
+2024-09-22 12:39:18,897 - INFO - convert catagorical column to numerical column
+2024-09-22 12:39:19,253 - INFO - extracting new featuires
+2024-09-22 12:39:19,254 - INFO - date changing to datetime
+2024-09-22 12:39:19,384 - INFO - date changinged to datetime succesfully
+2024-09-22 12:39:19,387 - INFO - extrating weekend
+2024-09-22 12:39:19,801 - INFO - extrating weekend succesfull
+2024-09-22 12:39:19,806 - INFO - month postioning
+2024-09-22 12:39:20,050 - INFO - month postioning finished
+2024-09-22 12:39:20,051 - INFO - calculating sales growth
+2024-09-22 12:39:20,089 - INFO - calculating sales growth complete
+2024-09-22 12:39:20,228 - INFO - finding the holiday days in the data set
+2024-09-22 12:39:20,274 - INFO - all holidays found
+2024-09-22 12:40:02,668 - INFO - finding the holiday days in the data set
+2024-09-22 12:40:02,705 - INFO - all holidays found
+2024-09-22 12:40:10,101 - INFO - loadding the data set
+2024-09-22 12:40:10,988 - INFO - the data sucessfully uploaded
+2024-09-22 12:40:11,041 - INFO - convert catagorical column to numerical column
+2024-09-22 12:40:11,380 - INFO - extracting new featuires
+2024-09-22 12:40:11,385 - INFO - date changing to datetime
+2024-09-22 12:40:11,526 - INFO - date changinged to datetime succesfully
+2024-09-22 12:40:11,528 - INFO - extrating weekend
+2024-09-22 12:40:12,040 - INFO - extrating weekend succesfull
+2024-09-22 12:40:12,040 - INFO - month postioning
+2024-09-22 12:40:12,372 - INFO - month postioning finished
+2024-09-22 12:40:12,378 - INFO - calculating sales growth
+2024-09-22 12:40:12,413 - INFO - calculating sales growth complete
+2024-09-22 12:40:12,556 - INFO - finding the holiday days in the data set
+2024-09-22 12:40:12,595 - INFO - all holidays found
+2024-09-22 12:45:06,880 - INFO - loadding the data set
+2024-09-22 12:45:08,017 - INFO - the data sucessfully uploaded
+2024-09-22 12:45:08,066 - INFO - convert catagorical column to numerical column
+2024-09-22 12:45:08,396 - INFO - extracting new featuires
+2024-09-22 12:45:08,399 - INFO - date changing to datetime
+2024-09-22 12:45:08,526 - INFO - date changinged to datetime succesfully
+2024-09-22 12:45:08,526 - INFO - extrating weekend
+2024-09-22 12:45:08,932 - INFO - extrating weekend succesfull
+2024-09-22 12:45:08,938 - INFO - month postioning
+2024-09-22 12:45:09,223 - INFO - month postioning finished
+2024-09-22 12:45:09,223 - INFO - calculating sales growth
+2024-09-22 12:45:09,260 - INFO - calculating sales growth complete
+2024-09-22 12:45:09,441 - INFO - finding the holiday days in the data set
+2024-09-22 12:45:09,469 - INFO - all holidays found
+2024-09-22 12:47:17,206 - INFO - loadding the data set
+2024-09-22 12:47:18,501 - INFO - the data sucessfully uploaded
+2024-09-22 12:47:18,573 - INFO - convert catagorical column to numerical column
+2024-09-22 12:47:19,038 - INFO - extracting new featuires
+2024-09-22 12:47:19,038 - INFO - date changing to datetime
+2024-09-22 12:47:19,332 - INFO - date changinged to datetime succesfully
+2024-09-22 12:47:19,335 - INFO - extrating weekend
+2024-09-22 12:47:20,252 - INFO - extrating weekend succesfull
+2024-09-22 12:47:20,252 - INFO - month postioning
+2024-09-22 12:47:20,849 - INFO - month postioning finished
+2024-09-22 12:47:20,849 - INFO - calculating sales growth
+2024-09-22 12:47:20,918 - INFO - calculating sales growth complete
+2024-09-22 12:47:21,204 - INFO - finding the holiday days in the data set
+2024-09-22 12:47:21,277 - INFO - all holidays found
+2024-09-22 13:11:29,227 - INFO - loadding the data set
+2024-09-22 13:11:30,363 - INFO - the data sucessfully uploaded
+2024-09-22 13:11:30,414 - INFO - convert catagorical column to numerical column
+2024-09-22 13:11:30,679 - INFO - extracting new featuires
+2024-09-22 13:11:30,680 - INFO - date changing to datetime
+2024-09-22 13:11:30,821 - INFO - date changinged to datetime succesfully
+2024-09-22 13:11:30,822 - INFO - extrating weekend
+2024-09-22 13:11:31,158 - INFO - extrating weekend succesfull
+2024-09-22 13:11:31,159 - INFO - month postioning
+2024-09-22 13:11:31,431 - INFO - month postioning finished
+2024-09-22 13:11:31,434 - INFO - calculating sales growth
+2024-09-22 13:11:31,461 - INFO - calculating sales growth complete
+2024-09-22 13:11:31,599 - INFO - finding the holiday days in the data set
+2024-09-22 13:11:31,643 - INFO - all holidays found
+2024-09-22 13:11:32,513 - ERROR - error occured : 'DatetimeArray' object has no attribute 'empty' 
+2024-09-22 13:12:10,260 - INFO - finding the holiday days in the data set
+2024-09-22 13:12:10,291 - INFO - all holidays found
+2024-09-22 13:12:10,801 - ERROR - error occured : 'DatetimeArray' object has no attribute 'empty' 
+2024-09-22 13:13:51,570 - INFO - loadding the data set
+2024-09-22 13:13:52,375 - INFO - the data sucessfully uploaded
+2024-09-22 13:13:52,418 - INFO - convert catagorical column to numerical column
+2024-09-22 13:13:52,961 - INFO - extracting new featuires
+2024-09-22 13:13:52,965 - INFO - date changing to datetime
+2024-09-22 13:13:53,134 - INFO - date changinged to datetime succesfully
+2024-09-22 13:13:53,136 - INFO - extrating weekend
+2024-09-22 13:13:53,768 - INFO - extrating weekend succesfull
+2024-09-22 13:13:53,769 - INFO - month postioning
+2024-09-22 13:13:54,073 - INFO - month postioning finished
+2024-09-22 13:13:54,076 - INFO - calculating sales growth
+2024-09-22 13:13:54,117 - INFO - calculating sales growth complete
+2024-09-22 13:13:54,520 - INFO - finding the holiday days in the data set
+2024-09-22 13:13:54,567 - INFO - all holidays found
+2024-09-22 13:19:49,675 - INFO - loadding the data set
+2024-09-22 13:19:50,515 - INFO - the data sucessfully uploaded
+2024-09-22 13:19:50,563 - INFO - convert catagorical column to numerical column
+2024-09-22 13:19:50,985 - INFO - extracting new featuires
+2024-09-22 13:19:50,991 - INFO - date changing to datetime
+2024-09-22 13:19:51,230 - INFO - date changinged to datetime succesfully
+2024-09-22 13:19:51,232 - INFO - extrating weekend
+2024-09-22 13:19:51,844 - INFO - extrating weekend succesfull
+2024-09-22 13:19:51,847 - INFO - month postioning
+2024-09-22 13:19:52,082 - INFO - month postioning finished
+2024-09-22 13:19:52,084 - INFO - calculating sales growth
+2024-09-22 13:19:52,113 - INFO - calculating sales growth complete
+2024-09-22 13:19:52,278 - INFO - finding the holiday days in the data set
+2024-09-22 13:19:52,476 - INFO - all holidays found
+2024-09-22 13:29:27,622 - INFO - loadding the data set
+2024-09-22 13:29:28,532 - INFO - the data sucessfully uploaded
+2024-09-22 13:29:28,590 - INFO - convert catagorical column to numerical column
+2024-09-22 13:29:28,909 - INFO - extracting new featuires
+2024-09-22 13:29:28,910 - INFO - date changing to datetime
+2024-09-22 13:29:29,053 - INFO - date changinged to datetime succesfully
+2024-09-22 13:29:29,054 - INFO - extrating weekend
+2024-09-22 13:29:29,470 - INFO - extrating weekend succesfull
+2024-09-22 13:29:29,472 - INFO - month postioning
+2024-09-22 13:29:29,762 - INFO - month postioning finished
+2024-09-22 13:29:29,765 - INFO - calculating sales growth
+2024-09-22 13:29:29,799 - INFO - calculating sales growth complete
+2024-09-22 13:29:29,980 - INFO - finding the holiday days in the data set
+2024-09-22 13:29:30,054 - INFO - all holidays found
+2024-09-22 13:41:19,367 - INFO - loadding the data set
+2024-09-22 13:41:20,262 - INFO - the data sucessfully uploaded
+2024-09-22 13:41:20,305 - INFO - convert catagorical column to numerical column
+2024-09-22 13:41:20,656 - INFO - extracting new featuires
+2024-09-22 13:41:20,657 - INFO - date changing to datetime
+2024-09-22 13:41:20,796 - INFO - date changinged to datetime succesfully
+2024-09-22 13:41:20,797 - INFO - extrating weekend
+2024-09-22 13:41:21,331 - INFO - extrating weekend succesfull
+2024-09-22 13:41:21,333 - INFO - month postioning
+2024-09-22 13:41:21,748 - INFO - month postioning finished
+2024-09-22 13:41:21,750 - INFO - calculating sales growth
+2024-09-22 13:41:21,800 - INFO - calculating sales growth complete
+2024-09-22 13:41:21,983 - INFO - finding the holiday days in the data set
+2024-09-22 13:41:21,995 - INFO - all holidays found
+2024-09-22 13:41:22,773 - ERROR - error occured : 'DatetimeArray' object has no attribute 'iloc' 
+2024-09-22 13:41:49,439 - INFO - loadding the data set
+2024-09-22 13:41:50,358 - INFO - the data sucessfully uploaded
+2024-09-22 13:41:50,412 - INFO - convert catagorical column to numerical column
+2024-09-22 13:41:50,801 - INFO - extracting new featuires
+2024-09-22 13:41:50,803 - INFO - date changing to datetime
+2024-09-22 13:41:50,952 - INFO - date changinged to datetime succesfully
+2024-09-22 13:41:50,953 - INFO - extrating weekend
+2024-09-22 13:41:51,318 - INFO - extrating weekend succesfull
+2024-09-22 13:41:51,320 - INFO - month postioning
+2024-09-22 13:41:51,556 - INFO - month postioning finished
+2024-09-22 13:41:51,558 - INFO - calculating sales growth
+2024-09-22 13:41:51,600 - INFO - calculating sales growth complete
+2024-09-22 13:41:51,827 - INFO - finding the holiday days in the data set
+2024-09-22 13:41:51,838 - INFO - all holidays found
+2024-09-22 13:41:52,676 - ERROR - error occured : 'DatetimeArray' object has no attribute 'iloc' 
+2024-09-22 13:43:41,185 - INFO - loadding the data set
+2024-09-22 13:43:42,003 - INFO - the data sucessfully uploaded
+2024-09-22 13:43:42,052 - INFO - convert catagorical column to numerical column
+2024-09-22 13:43:42,387 - INFO - extracting new featuires
+2024-09-22 13:43:42,390 - INFO - date changing to datetime
+2024-09-22 13:43:42,534 - INFO - date changinged to datetime succesfully
+2024-09-22 13:43:42,536 - INFO - extrating weekend
+2024-09-22 13:43:42,938 - INFO - extrating weekend succesfull
+2024-09-22 13:43:42,938 - INFO - month postioning
+2024-09-22 13:43:43,296 - INFO - month postioning finished
+2024-09-22 13:43:43,299 - INFO - calculating sales growth
+2024-09-22 13:43:43,352 - INFO - calculating sales growth complete
+2024-09-22 13:43:43,612 - INFO - finding the holiday days in the data set
+2024-09-22 13:43:43,623 - INFO - all holidays found
+2024-09-22 13:43:44,919 - ERROR - error occured : 'DatetimeArray' object has no attribute 'dt' 
+2024-09-22 13:45:18,210 - INFO - loadding the data set
+2024-09-22 13:45:19,006 - INFO - the data sucessfully uploaded
+2024-09-22 13:45:19,052 - INFO - convert catagorical column to numerical column
+2024-09-22 13:45:19,423 - INFO - extracting new featuires
+2024-09-22 13:45:19,425 - INFO - date changing to datetime
+2024-09-22 13:45:19,593 - INFO - date changinged to datetime succesfully
+2024-09-22 13:45:19,595 - INFO - extrating weekend
+2024-09-22 13:45:20,157 - INFO - extrating weekend succesfull
+2024-09-22 13:45:20,159 - INFO - month postioning
+2024-09-22 13:45:20,434 - INFO - month postioning finished
+2024-09-22 13:45:20,435 - INFO - calculating sales growth
+2024-09-22 13:45:20,466 - INFO - calculating sales growth complete
+2024-09-22 13:45:20,604 - INFO - finding the holiday days in the data set
+2024-09-22 13:45:20,616 - INFO - all holidays found
+2024-09-22 13:45:21,352 - ERROR - error occured : 'DatetimeArray' object has no attribute 'dt' 
+2024-09-22 13:45:51,378 - INFO - loadding the data set
+2024-09-22 13:45:52,162 - INFO - the data sucessfully uploaded
+2024-09-22 13:45:52,207 - INFO - convert catagorical column to numerical column
+2024-09-22 13:45:52,577 - INFO - extracting new featuires
+2024-09-22 13:45:52,578 - INFO - date changing to datetime
+2024-09-22 13:45:52,749 - INFO - date changinged to datetime succesfully
+2024-09-22 13:45:52,750 - INFO - extrating weekend
+2024-09-22 13:45:53,103 - INFO - extrating weekend succesfull
+2024-09-22 13:45:53,109 - INFO - month postioning
+2024-09-22 13:45:53,413 - INFO - month postioning finished
+2024-09-22 13:45:53,415 - INFO - calculating sales growth
+2024-09-22 13:45:53,444 - INFO - calculating sales growth complete
+2024-09-22 13:45:53,592 - INFO - finding the holiday days in the data set
+2024-09-22 13:45:53,603 - INFO - all holidays found
+2024-09-22 14:43:15,883 - INFO - loadding the data set
+2024-09-22 14:43:16,843 - INFO - the data sucessfully uploaded
+2024-09-22 14:43:16,895 - INFO - convert catagorical column to numerical column
+2024-09-22 14:43:17,322 - INFO - extracting new featuires
+2024-09-22 14:43:17,325 - INFO - date changing to datetime
+2024-09-22 14:43:17,498 - INFO - date changinged to datetime succesfully
+2024-09-22 14:43:17,501 - INFO - extrating weekend
+2024-09-22 14:43:18,232 - INFO - extrating weekend succesfull
+2024-09-22 14:43:18,233 - INFO - month postioning
+2024-09-22 14:43:18,505 - INFO - month postioning finished
+2024-09-22 14:43:18,507 - INFO - calculating sales growth
+2024-09-22 14:43:18,549 - INFO - calculating sales growth complete
+2024-09-22 14:43:18,714 - INFO - finding the holiday days in the data set
+2024-09-22 14:43:18,726 - INFO - all holidays found
