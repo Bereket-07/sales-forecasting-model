@@ -56,7 +56,7 @@ The project provides actionable insights into customer behavior, the impact of p
   - Serializes models with timestamps for tracking daily predictions.
 
 - **Deep Learning Approach**:
-  - Builds a Long Short-Term Memory (LSTM) model using TensorFlow or PyTorch.
+  - Builds a Long Short-Term Memory (LSTM) model using TensorFlow and Keras.
   - Transforms time series data into a supervised learning format to predict future sales.
   - Ensures efficient execution in Google Colab.
 
@@ -69,7 +69,7 @@ The project provides actionable insights into customer behavior, the impact of p
 5. **Logging**: [![Logger](https://img.shields.io/badge/Logging-4B8BBE?style=flat&logo=python&logoColor=yellow)](https://docs.python.org/3/howto/logging.html)
 6. **Statistical Analysis**: [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
 7. **Machine Learning Framework**: [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-8. **Deep Learning Framework**: [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
+8. **Deep Learning Framework**: [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/) | [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 9. **Jupyter Notebooks**: [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
 10. **Version Control**: [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 11. **Code Formatting & Linting**: [![Black](https://img.shields.io/badge/Black-000000?style=flat&logo=python&logoColor=white)](https://github.com/psf/black)
