@@ -44,8 +44,21 @@ This project involves the exploration and analysis of customer purchasing behavi
 
 ## 7. Conclusion
 The project provides actionable insights into customer behavior, the impact of promotions, and the factors affecting sales. These insights can be used for future business strategies, marketing campaigns, and store management decisions.
- 
 
+# Model Development 
+ 
+ - **Project Overview**: This project focuses on predicting store sales using both machine learning and deep learning techniques.
+  
+- **Machine Learning Approach**:
+  - Utilizes a Random Forest Regressor with sklearn pipelines for modular and reproducible modeling.
+  - Chooses an interpretable loss function to evaluate model performance.
+  - Analyzes feature importance and estimates confidence intervals for predictions.
+  - Serializes models with timestamps for tracking daily predictions.
+
+- **Deep Learning Approach**:
+  - Builds a Long Short-Term Memory (LSTM) model using TensorFlow or PyTorch.
+  - Transforms time series data into a supervised learning format to predict future sales.
+  - Ensures efficient execution in Google Colab.
 
 # Tools & Libraries Used
 
@@ -56,11 +69,11 @@ The project provides actionable insights into customer behavior, the impact of p
 5. **Logging**: [![Logger](https://img.shields.io/badge/Logging-4B8BBE?style=flat&logo=python&logoColor=yellow)](https://docs.python.org/3/howto/logging.html)
 6. **Statistical Analysis**: [![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)](https://scipy.org/)
 7. **Machine Learning Framework**: [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-8. **Jupyter Notebooks**: [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-9. **Version Control**: [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-10. **Code Formatting & Linting**: [![Black](https://img.shields.io/badge/Black-000000?style=flat&logo=python&logoColor=white)](https://github.com/psf/black)
-11. **Continuous Integration (CI)**: [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-
+8. **Deep Learning Framework**: [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)](https://keras.io/)
+9. **Jupyter Notebooks**: [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
+10. **Version Control**: [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+11. **Code Formatting & Linting**: [![Black](https://img.shields.io/badge/Black-000000?style=flat&logo=python&logoColor=white)](https://github.com/psf/black)
+12. **Continuous Integration (CI)**: [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 ## Folder Organization
 
 ```
@@ -79,9 +92,18 @@ The project provides actionable insights into customer behavior, the impact of p
          └── 📃unittests.yml
 └── 📁notebooks
          └── 📓analysis_with_store_data_set.ipynb
+         └── 📓deeplearningmodel.ipynb
          └── 📓eda.ipynb
+         └── 📓model_building.ipynb
+         └── 📓model_without_grid.ipynb
+         └── 📓model.ipynb
          └── 📓salesAnalysis.ipynb
 └── 📁scripts
+         └── 📁model_training
+                  └── 📃__init__.py
+                  └── 📃pipeline_withotgrid.py
+                  └── 📃pipeline.py
+                  └── 📃preprocessing.py
          └── 📃__init__.py
          └── 📃chi_squaredAnlaysis.py
          └── 📃customur_during_before_and_after_holiday_analysis.py
@@ -90,6 +112,10 @@ The project provides actionable insights into customer behavior, the impact of p
          └── 📃sales_analysis.py
 └── 💻src
     └── 📁dashboard-div
+                    └── 📁static
+                            └── 📝styles.css
+                    └── 📁templates
+                            └── 📝index.html
                     └── 📝app.py
 └── ⌛tests
          └── 📃__init__.py
@@ -117,9 +143,24 @@ The project provides actionable insights into customer behavior, the impact of p
 
 **Overview**: This notebook performs an in-depth analysis by merging the store dataset with the train dataset to uncover key insights, with a particular focus on evaluating the influence of competitor distance on store sales.
 
+### **📓deeplearningmodel.ipynb**
+
+**Overview**: This notebook focuses on building a deep learning model to predict store sales. It employs Long Short-Term Memory (LSTM) networks to leverage sequential data, enhancing the accuracy of sales forecasts through advanced machine learning techniques.
+
 ### **📓eda.ipynb**
 
 **Overview**: This notebook is dedicated to Exploratory Data Analysis (EDA), with a primary focus on data cleaning and outlier detection/handling for the project.
+
+### **📓 model_building.ipynb**
+
+**Overview**: This notebook focuses on building a logistic regression model utilizing GridSearchCV for hyperparameter tuning. It systematically explores various parameter combinations to optimize model performance, ensuring the best possible predictions for store sales.
+
+
+### **📓 model_without_grid.ipynb**
+
+**Overview**: This notebook focuses on building a model without using GridSearchCV for hyperparameter tuning. It directly implements a logistic regression model, providing insights into model performance and evaluation without the additional complexity of parameter optimization.
+
+
 
 ### **📓salesAnalysis.ipynb**
 
@@ -186,16 +227,16 @@ cd User_Analysis_and_Engagement
 pip install -r requirements.txt
 ```
 
-4. change directory to run the streamlit app locally.
+4. change directory to run the Flask app locally.
 
 ```bash
 cd src\dashboard-div
 ```
 
-5. Start the streamlit app
+5. Start the Flask app
 
 ```bash
-streamlit run app.py
+Python app.py
 ```
 
 ## Contributing
